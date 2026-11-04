@@ -4,13 +4,16 @@ require "fileutils"
 files = Dir.glob("_data/items/*.yml").sort
 abort "No item files found in _data/items/" if files.empty?
 
-items = []
+items = {}
 
 files.each do |file|
   data = YAML.load_file(file)
-  abort "#{file} must contain a YAML list" unless data.is_a?(Array)
+  abort "#{file} must contain a YAML mapping" unless data.is_a?(Hash)
 
-  items.concat(data)
+  duplicates = items.keys & data.keys
+  abort "Duplicate item IDs in #{file}: #{duplicates.join(', ')}" unless duplicates.empty?
+
+  items.merge!(data)
   puts "Loaded #{data.size} items from #{file}"
 end
 
