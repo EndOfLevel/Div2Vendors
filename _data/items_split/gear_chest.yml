@@ -64,7 +64,7 @@ Robin:
   coreattr1: ["red", "11.4% Weapon Damage", false]
   2ndattr1: ["red", "5.1% Critical Hit Chance", false]
   2ndattr2: ["yellow", "16.7% Repair Skills", false]
-  talent: "Perfect Gunsligner"
+  talent: "Perfect Gunslinger"
 
 Tania_Silent_Vest:
   name: "Tania Silent Vest"

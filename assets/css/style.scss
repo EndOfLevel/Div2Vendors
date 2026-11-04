@@ -64,7 +64,16 @@ div.wrapper {
               }
 
               span.clsAttr {
-                display:block;
+                display:flex;
+                align-items: center;
+                justify-content: center;
+                gap: 4px;
+                line-height:1.75em;
+
+                img {
+                  width:20px;
+                  height:20px;
+                }
               }
             }
           }
