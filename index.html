@@ -51,7 +51,7 @@ layout: default
                   {% assign talent_name = entry.talent | default: item.talent %}
                   {% assign talent_data = site.data.talents[talent_name] %}
                   {% if talent_data and talent_data.icon %}
-                    <img src="assets/images/{{ talent_data.icon | relative_url }}" alt="{{ talent_name }}" />
+                    <img src="assets/images/{{ talent_data.icon }}" alt="{{ talent_name }}" />
                   {% endif %}
                   {{ entry.talent | default: item.talent }}
                 </td></tr>
