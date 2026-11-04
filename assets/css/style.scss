@@ -75,6 +75,7 @@ div.wrapper {
             text-align:center;
             font-size:1.2em;
             padding:15px 10px;
+            text-shadow:1px 1px 8px #000000
 
             &.Prototype {
               background-color:rgb(74, 7, 77);
@@ -92,12 +93,12 @@ div.wrapper {
             }
 
             &.HighEndNamed {
-              background-color:#FFAF10;
-              color:#fff900;
+              background-color:#ff9d10;
+              color:#ffffff;
             }
 
             &.HighEnd {
-              background-color:#FFAF10;
+              background-color:#ebc519;
               color:#ffffff;
             }
 

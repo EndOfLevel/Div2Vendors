@@ -4,8 +4,6 @@ layout: default
 
 <hr/>
 
-<p>Vendors loaded: {{ site.data.vendors.size }}</p>
-
 {% for vendor in site.data.vendors %}
   <h2>{{ vendor.name }}</h2>
 
@@ -20,59 +18,74 @@ layout: default
               <tr><td>{{ item.type }}</td></tr>
               <tr><td><abbr>DMG</abbr>{{ item.damage }}</td><td><abbr>RPM</abbr>{{ item.rpm }}</td><td><abbr>MAG</abbr>{{ item.mag }}</td></tr>
               <tr><td>
-                {% if entry.coreattr1 or item.coreattr1 or item.coreattr2 or item.coreattr2 or item.coreattr3 or item.coreattr3 %}
+                <abbr>Core Attributes</abbr>
+                {% if entry.coreattr1 or item.coreattr1 or entry.coreattr2 or item.coreattr2 or entry.coreattr3 or item.coreattr3 %}
                   {% if entry.coreattr1 or item.coreattr1 %}
-                    <span class="clsAttr god_{{ entry.coreattr1[2] | default: item.coreattr1[2] }}">{{ entry.coreattr1[0] | default: item.coreattr1[0] }} {{ entry.coreattr1[1] | default: item.coreattr1[1] }}</span>
+                    <span class="clsAttr god_{{ entry.coreattr1[2] | default: item.coreattr1[2] }}"><img src="assets/images/icon-{{ entry.coreattr1[0] | default: item.coreattr1[0] }}.png" alt="{{ entry.coreattr1[0] | default: item.coreattr1[0] }}" />{{ entry.coreattr1[0] | default: item.coreattr1[0] }} {{ entry.coreattr1[1] | default: item.coreattr1[1] }}</span>
                   {% endif %}
                   {% if entry.coreattr2 or item.coreattr2 %}
-                    <span class="clsAttr god_{{ entry.coreattr2[2] | default: item.coreattr2[2] }}">{{ entry.coreattr2[0] | default: item.coreattr2[0] }} {{ entry.coreattr2[1] | default: item.coreattr2[1] }}</span>
+                    <span class="clsAttr god_{{ entry.coreattr2[2] | default: item.coreattr2[2] }}"><img src="assets/images/icon-{{ entry.coreattr2[0] | default: item.coreattr2[0] }}.png" alt="{{ entry.coreattr2[0] | default: item.coreattr2[0] }}" />{{ entry.coreattr2[0] | default: item.coreattr2[0] }} {{ entry.coreattr2[1] | default: item.coreattr2[1] }}</span>
                   {% endif %}
                   {% if entry.coreattr3 or item.coreattr3 %}
-                    <span class="clsAttr god_{{ entry.coreattr3[2] | default: item.coreattr3[2] }}">{{ entry.coreattr3[0] | default: item.coreattr3[0] }} {{ entry.coreattr3[1] | default: item.coreattr3[1] }}</span>
+                    <span class="clsAttr god_{{ entry.coreattr3[2] | default: item.coreattr3[2] }}"><img src="assets/images/icon-{{ entry.coreattr3[0] | default: item.coreattr3[0] }}.png" alt="{{ entry.coreattr3[0] | default: item.coreattr3[0] }}" />{{ entry.coreattr3[0] | default: item.coreattr3[0] }} {{ entry.coreattr3[1] | default: item.coreattr3[1] }}</span>
                   {% endif %}
                 {% else %}
-                  <span class="clsAttr">-</span>
+                  <span class="clsAttr">None</span>
                 {% endif %}
               </td></tr>
               <tr><td>
+                <abbr>Attributes</abbr>
                 {% if entry.2ndattr1 or item.2ndattr1 or item.2ndattr2 or item.2ndattr2 %}
                   {% if entry.2ndattr1 or item.2ndattr1 %}
-                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}">{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
+                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}"><img src="assets/images/icon-{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }}.png" alt="{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }}" />{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
                   {% endif %}
                   {% if entry.2ndattr2 or item.2ndattr2 %}
-                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}">{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
+                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}"><img src="assets/images/icon-{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }}.png" alt="{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }}" />{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
                   {% endif %}
                 {% else %}
-                  <span class="clsAttr">-</span>
+                  <span class="clsAttr">None</span>
                 {% endif %}
               </td></tr>
-              {% if entry.talent %}
-                <tr><td>{{ entry.talent }}</td></tr>
-              {% elsif item.talent %}
-                <tr><td>{{ item.talent }}</td></tr>
+              {% if entry.talent or item.talent %}
+                <tr><td>{{ entry.talent | default: item.talent }}</td></tr>
               {% endif %}
             {% when 'GEAR' %}
               <tr><td>{{ item.manufacturer }}</td></tr>
               <tr><td><abbr>Slot</abbr>{{ item.type }}</td><td><abbr>Armor</abbr>{{ item.armor }}</td></tr>
               <tr><td>
-                <span class="clsAttr god_{{ entry.attr1[2] | default: item.attr1[2] }}">{{ entry.attr1[0] | default: item.attr1[0] }} {{ entry.attr1[1] | default: item.attr1[1] }}</span>
-              </td></tr>
-              <tr><td>
-                {% if entry.2ndattr1 or item.2ndattr1 or item.2ndattr2 or item.2ndattr2 %}
-                  {% if entry.2ndattr1 or item.2ndattr1 %}
-                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}">{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
+                <abbr>Core Attributes</abbr>
+                {% if entry.coreattr1 or item.coreattr1 or entry.coreattr2 or item.coreattr2 or entry.coreattr3 or item.coreattr3 %}
+                  {% if entry.coreattr1 or item.coreattr1 %}
+                    <span class="clsAttr god_{{ entry.coreattr1[2] | default: item.coreattr1[2] }}"><img src="assets/images/icon-{{ entry.coreattr1[0] | default: item.coreattr1[0] }}.png" alt="{{ entry.coreattr1[0] | default: item.coreattr1[0] }}" />{{ entry.coreattr1[0] | default: item.coreattr1[0] }} {{ entry.coreattr1[1] | default: item.coreattr1[1] }}</span>
                   {% endif %}
-                  {% if entry.2ndattr2 or item.2ndattr2 %}
-                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}">{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
+                  {% if entry.coreattr2 or item.coreattr2 %}
+                    <span class="clsAttr god_{{ entry.coreattr2[2] | default: item.coreattr2[2] }}"><img src="assets/images/icon-{{ entry.coreattr2[0] | default: item.coreattr2[0] }}.png" alt="{{ entry.coreattr2[0] | default: item.coreattr2[0] }}" />{{ entry.coreattr2[0] | default: item.coreattr2[0] }} {{ entry.coreattr2[1] | default: item.coreattr2[1] }}</span>
+                  {% endif %}
+                  {% if entry.coreattr3 or item.coreattr3 %}
+                    <span class="clsAttr god_{{ entry.coreattr3[2] | default: item.coreattr3[2] }}"><img src="assets/images/icon-{{ entry.coreattr3[0] | default: item.coreattr3[0] }}.png" alt="{{ entry.coreattr3[0] | default: item.coreattr3[0] }}" />{{ entry.coreattr3[0] | default: item.coreattr3[0] }} {{ entry.coreattr3[1] | default: item.coreattr3[1] }}</span>
                   {% endif %}
                 {% else %}
-                  <span class="clsAttr">-</span>
+                  <span class="clsAttr">None</span>
                 {% endif %}
               </td></tr>
-              {% if entry.talent %}
-                <tr><td>{{ entry.talent }}</td></tr>
-              {% elsif item.talent %}
-                <tr><td>{{ item.talent }}</td></tr>
+              <tr><td>
+                <abbr>Attributes</abbr>
+                {% if entry.2ndattr1 or item.2ndattr1 or entry.2ndattr2 or item.2ndattr2 or entry.2ndattr3 or item.2ndattr3 %}
+                  {% if entry.2ndattr1 or item.2ndattr1 %}
+                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}"><img src="assets/images/icon-{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }}.png" alt="{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }}" />{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
+                  {% endif %}
+                  {% if entry.2ndattr2 or item.2ndattr2 %}
+                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}"><img src="assets/images/icon-{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }}.png" alt="{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }}" />{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
+                  {% endif %}
+                  {% if entry.2ndattr3 or item.2ndattr3 %}
+                    <span class="clsAttr god_{{ entry.2ndattr3[2] | default: item.2ndattr3[2] }}"><img src="assets/images/icon-{{ entry.2ndattr3[0] | default: item.2ndattr3[0] }}.png" alt="{{ entry.2ndattr3[0] | default: item.2ndattr3[0] }}" />{{ entry.2ndattr3[0] | default: item.2ndattr3[0] }} {{ entry.2ndattr3[1] | default: item.2ndattr3[1] }}</span>
+                  {% endif %}
+                {% else %}
+                  <span class="clsAttr">None</span>
+                {% endif %}
+              </td></tr>
+              {% if entry.talent or item.talent %}
+                <tr><td>{{ entry.talent | default: item.talent }}</td></tr>
               {% endif %}
             {% when 'MOD' %}
               <tr><td>{{ item.type }}</td></tr>
