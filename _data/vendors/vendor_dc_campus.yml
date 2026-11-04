@@ -1,0 +1,59 @@
+# ----------------------------------------------------------------- WASHINGTON : CAMPUS SETTLEMENT
+
+- name: "Washington : Campus Settlement"
+  inventory:
+    - item_id: "Quiet_Roar"
+      price: "15,524 Credits"
+      coreattr1: ["red", "8.1% LMG Damage", false]
+      coreattr2: ["red", "7% DMG to target out of cover", false]
+      2ndattr1: ["red", "4.9% Rate of Fire", false]
+      talent: "Perfect Overwhelm"
+
+    - item_id: "Surplus_SVD"
+      price: "8,482 Credits"
+      coreattr1: ["red", "11.1% Marksman Rifle Damage", false]
+      coreattr2: ["red", "93% Headshot Damage", false]
+      2ndattr1: ["red", "12.5% Swap Speed", true]
+      talent: "Vindictive"
+
+    - item_id: "Stoner_LAMG"
+      price: "8,473 Credits"
+      coreattr1: ["red", "10% LMG Damage", false]
+      coreattr2: ["red", "9% DMG to target out of cover", false]
+      2ndattr1: ["red", "9% Headshot Damage", false]
+      talent: "Precision Strike"
+
+    - item_id: "Svalinn_Heavy_Breather"
+      price: "5,081 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "9.9% Skill Haste", false]
+      2ndattr2: ["yellow", "7% Skill Damage", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+    - item_id: "Rugged_Gun_Guard"
+      price: "5,654 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "9.7% Skill Haste", false]
+      2ndattr2: ["red", "5.1% Critical Hit Chance", false]
+
+    - item_id: "Utility_System_Assist"
+      price: "4,517 Credits"
+      attr: "8.3% Skill Duration"
+
+    - item_id: "Pharmacokinetic_Enhancer"
+      price: "4,520 Credits"
+      attr: "5.9% Skill Haste"
+
+    - item_id: "Internal_Storage"
+      price: "4,524 Credits"
+      attr: "4% Range"
+
+    - item_id: "Unstable_Oscillator"
+      price: "4,518 Credits"
+      attr: "6.3% Cone Size"
+
+    - item_id: "Trap_Electronics_Upgrade"
+      price: "4,516 Credits"
+      attr: "5.7% Shock Radius"
+
+# ----------------------------------------------------------------- EOF

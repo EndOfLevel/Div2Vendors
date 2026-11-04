@@ -1,0 +1,16 @@
+# ----------------------------------------------------------------- SKILL MODS : TURRET
+
+SHD_CPU_V2:
+  name: "SHD CPU V.2"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Turret"
+  attr: "5.9% Duration"
+
+Spare_Parts:
+  name: "Spare Parts"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Turret"
+
+# ----------------------------------------------------------------- EOF

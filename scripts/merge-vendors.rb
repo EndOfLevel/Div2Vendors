@@ -1,8 +1,8 @@
 require "yaml"
 require "fileutils"
 
-files = Dir.glob("_data/vendors_split/*.yml").sort
-abort "No vendor files found in _data/vendors_split/" if files.empty?
+files = Dir.glob("_data/vendors/*.yml").sort
+abort "No vendor files found in _data/vendors/" if files.empty?
 
 vendors = []
 

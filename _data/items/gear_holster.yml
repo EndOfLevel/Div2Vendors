@@ -1,0 +1,35 @@
+# ----------------------------------------------------------------- GEAR : HOLSTER
+
+Fodral_Holster:
+  name: "Fodral Holster"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Fenris Group AB"
+  type: "Holster"
+  armor: "112k"
+  coreattr1: ["yellow", "11.7% Weapon Damage", false]
+  coreattr2: ["yellow", "10% Critical Hit Damage", false]
+  2ndattr1: ["yellow", "7.1% Skill Damage", false]
+
+Grave_Holster:
+  name: "Grave Holster"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Virtuoso"
+  type: "Holster"
+  armor: "112k"
+  coreattr1: ["red", "10.1% Weapon Damage", false]
+  2ndattr1: ["red", "5.8% Critical Hit Chance", false]
+
+Rugged_Gun_Guard:
+  name: "Rugged Gun Guard"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Empress International"
+  type: "Holster"
+  armor: "112k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  2ndattr1: ["yellow", "9.7% Skill Haste", false]
+  2ndattr2: ["red", "5.1% Critical Hit Chance", false]
+
+# ----------------------------------------------------------------- EOF

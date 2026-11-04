@@ -1,0 +1,34 @@
+# ----------------------------------------------------------------- GEAR : KNEEPADS
+
+Chargers_Kneepads:
+  name: "Charger's Kneepads"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Breaking Point"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["yellow", "10.9% Weapon Damage", false]
+  coreattr2: ["yellow", "6.5% Headshot Damage", false]
+
+Nina_Prone_Pads:
+  name: "Nina Prone Pads"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Aces & Eights"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["red", "13.4% Weapon Damage", false]
+  2ndattr1: ["red", "10.1% Critical Hit Damage", false]
+
+Wear_Anywhere_Protectors:
+  name: "Wear-anywhere Protectors"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Empress International"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "7.6% Skill Damage", false]
+  2ndattr1: ["yellow", "8% Status Effects", false]
+
+# ----------------------------------------------------------------- EOF

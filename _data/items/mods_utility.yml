@@ -1,0 +1,17 @@
+# ----------------------------------------------------------------- GEAR MODS : UTILITY
+
+Utility_System_Assist:
+  name: "Utility System: Assist"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Utility"
+  attr: "8.3% Skill Duration"
+
+Utility_System_Electronics:
+  name: "Utility System: Electronics"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Utility"
+  attr: "17.5% Repair Skills"
+
+# ----------------------------------------------------------------- EOF

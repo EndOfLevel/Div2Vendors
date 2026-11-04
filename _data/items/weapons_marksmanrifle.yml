@@ -1,0 +1,345 @@
+# ----------------------------------------------------------------- WEAPONS : MARKSMAN RIFLE
+
+SOCOM_Mk20_SSR:
+  name: "SOCOM Mk20 SSR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+SOCOM_Mk20_SSR_Replica:
+  name: "SOCOM Mk20 SSR Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+The_Darkness:
+  name: "The Darkness"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+G28:
+  name: "G28"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+Relic:
+  name: "Relic"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+Sacrum_Imperium:
+  name: "Sacrum Imperium"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+M700_Carbon:
+  name: "M700 Carbon"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+M700_Carbon_Replica:
+  name: "M700 Carbon Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+M700_Tactical:
+  name: "M700 Tactical"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Model_700:
+  name: "Model 700"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Model_700_Replica:
+  name: "Model 700 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Brutus:
+  name: "Brutus"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Ekims_Long_Stick:
+  name: "Ekim's Long Stick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Shroud:
+  name: "Shroud"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Paratrooper_SVD:
+  name: "Paratrooper SVD"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Surplus_SVD:
+  name: "Surplus SVD"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Commando:
+  name: "Commando"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Handbasket:
+  name: "Handbasket"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 386,988
+  rpm: 60
+  mag: 10
+
+Dread_Edict:
+  name: "Dread Edict"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Covert_SRS:
+  name: "Covert SRS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+SRS_A1:
+  name: "SRS A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+SRS_A1_Replica:
+  name: "SRS A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Pinprick:
+  name: "Pinprick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Mantis:
+  name: "Mantis"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Classic_M44_Carbine:
+  name: "Classic M44 Carbine"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+Classic_M44_Carbine_Replica:
+  name: "Classic M44 Carbine Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+Hunting_M44:
+  name: "Hunting M44"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 428,664
+  rpm: 55
+  mag: 5
+
+Custom_M44:
+  name: "Custom M44"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 417,692
+  rpm: 55
+  mag: 5
+
+Instigator:
+  name: "Instigator"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 417,692
+  rpm: 55
+  mag: 5
+
+Oh_Carol:
+  name: "Oh Carol"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+The_White_Death:
+  name: "The White Death"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+SR_1:
+  name: "SR-1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+SR_1_Replica:
+  name: "SR-1 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Adrestia:
+  name: "Adrestia"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Designated_Hitter:
+  name: "Designated Hitter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Tactical_308:
+  name: "Tactical .308"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 90
+  mag: 7
+
+Scalpel:
+  name: "Scalpel"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 90
+  mag: 7
+
+Nemesis:
+  name: "Nemesis"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 50
+  mag: 5
+
+# ----------------------------------------------------------------- EOF

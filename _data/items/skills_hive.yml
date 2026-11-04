@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------- SKILL MODS : HIVE
+
+Internal_Storage:
+  name: "Internal Storage"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Hive"
+  attr: "4% Range"
+
+# ----------------------------------------------------------------- EOF

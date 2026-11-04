@@ -1,0 +1,9 @@
+# ----------------------------------------------------------------- GEAR MODS : DEFENSIVE
+
+Defensive_Protocol_Stamina:
+  name: "Defensive Protocol: Stamina"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Defensive"
+
+# ----------------------------------------------------------------- EOF

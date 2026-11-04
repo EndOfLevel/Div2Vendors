@@ -1,0 +1,58 @@
+# ----------------------------------------------------------------- GEAR : MASK
+
+Biohazard_Mask:
+  name: "Biohazard Mask"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Eclipse Protocol"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "10.6% Skill Haste", false]
+
+Penumbra_Mask:
+  name: "Penumbra Mask"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Grupo Sombra S.A."
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["red", "11.1% Weapon Damage", false]
+  2ndattr1: ["red", "7.5% Weapon Handling", false]
+  2ndattr2: ["red", "4.6% Critical Hit Chance", false]
+  2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+Rigger_Dust_Mask:
+  name: "Rigger Dust Mask"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Rigger"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  2ndattr1: ["yellow", "10.6% Skill Haste", false]
+
+Svalinn_Heavy_Breather:
+  name: "Svalinn Heavy Breather"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Richter & Kaiser GmbH"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  2ndattr1: ["yellow", "9.9% Skill Haste", false]
+  2ndattr2: ["yellow", "7% Skill Damage", false]
+  2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+Unfazed_Mask:
+  name: "Unfazed Mask"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Unit Alloys"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "11.8% Weapon Damage", false]
+  coreattr2: ["yellow", "4.9% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "17.1% Repair Skills", false]
+
+# ----------------------------------------------------------------- EOF

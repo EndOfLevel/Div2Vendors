@@ -1,0 +1,552 @@
+# ----------------------------------------------------------------- WEAPONS : ASSAULT RIFLE
+
+ACR:
+  name: "ACR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 58,896
+  rpm: 650
+  mag: 30
+
+ACR_E:
+  name: "ACR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 58,896
+  rpm: 650
+  mag: 30
+
+AK_M:
+  name: "AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 67,175
+  rpm: 600
+  mag: 30
+
+Military_AK_M:
+  name: "Military AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+Black_Market_AK_M:
+  name: "Black Market AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+Black_Market_AK_M_Replica:
+  name: "Black Market AK-M Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+First_Sight:
+  name: "First Sight"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 67,175
+  rpm: 600
+  mag: 30
+
+Manic:
+  name: "Manic"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+AUG_A3_CQC:
+  name: "AUG A3-CQC"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 680
+  mag: 42
+
+Invisible_Hand:
+  name: "Invisible Hand"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 782
+  mag: 42
+
+The_Bighorn:
+  name: "The Bighorn"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 800
+  mag: 42
+
+Carbine_7:
+  name: "Carbine 7"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,790
+  rpm: 790
+  mag: 30
+
+The_Drill:
+  name: "The Drill"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 49,790
+  rpm: 790
+  mag: 30
+
+F2000:
+  name: "F2000"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+F2000_Replica:
+  name: "F2000 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+Shield_Splinterer:
+  name: "Shield Splinterer"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+Agitator:
+  name: "Agitator"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+FAL:
+  name: "FAL"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58:
+  name: "FAL SA-58"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58_Para:
+  name: "FAL SA-58 Para"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58_Para_Replica:
+  name: "FAL SA-58 Para Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+Goalie:
+  name: "Goalie"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+Strega:
+  name: "Strega"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAMAS_2010:
+  name: "FAMAS 2010"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+FAMAS_2010_Replica:
+  name: "FAMAS 2010"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Huntsman:
+  name: "Huntsman"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Burn_Out:
+  name: "Burn Out"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Military_G36:
+  name: "Military G36"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_C:
+  name: "G36 C"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_Enhanced:
+  name: "G36 Enhanced"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_Enhanced_Replica:
+  name: "G36 Enhanced Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Caretaker:
+  name: "Caretaker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Born Great:
+  name: "Born Great"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Honey_Badger:
+  name: "Honey Badger"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 51,271
+  rpm: 800
+  mag: 30
+
+Savage_Wolverine:
+  name: "Savage Wolverine"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 51,271
+  rpm: 800
+  mag: 30
+
+Police_M4:
+  name: "Police M4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Police_M4_Replica:
+  name: "Police M4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Pyromaniac:
+  name: "Pyromaniac"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Lexington:
+  name: "Lexington"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 48,699
+  rpm: 850
+  mag: 30
+
+St_Elmos_Engine:
+  name: "St. Elmo's Engine"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 40
+
+Mk16:
+  name: "Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+SOCOM_Mk16:
+  name: "SOCOM Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Tactical_Mk16:
+  name: "Tactical Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Tactical_Mk16_Replica:
+  name: "Tactical Mk16 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Lud:
+  name: "Lud"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Caduceus:
+  name: "Caduceus"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Military_P416:
+  name: "Military P416"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Custom_P416_G3:
+  name: "Custom P416 G3"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Glory_Daze:
+  name: "Glory Daze"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Eagle_Bearer:
+  name: "Eagle Bearer"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+PDR:
+  name: "PDR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Test_Subject:
+  name: "Test Subject"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+First_Bloom:
+  name: "First Bloom"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Capacitor:
+  name: "Capacitor"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Sig_Sauer_556:
+  name: "Sig Sauer 556"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 55,934
+  rpm: 700
+  mag: 30
+
+Mechanical_Animal:
+  name: "Mechanical Animal"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 55,934
+  rpm: 700
+  mag: 30
+
+TKB_408:
+  name: "TKB-408"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 63,508
+  rpm: 600
+  mag: 30
+
+Kingbreaker:
+  name: "Kingbreaker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 63,508
+  rpm: 600
+  mag: 30
+
+CTAR_21:
+  name: "CTAR-21"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 44,802
+  rpm: 900
+  mag: 30
+
+The_Railsplitter:
+  name: "The Railsplitter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 44,802
+  rpm: 900
+  mag: 30
+
+Chameleon:
+  name: "Chameleon"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 44,670
+  rpm: 900
+  mag: 30
+
+# ----------------------------------------------------------------- EOF

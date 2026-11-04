@@ -1,0 +1,16 @@
+# ----------------------------------------------------------------- SKILL MODS : FIREFLY
+
+Alignment_Valve:
+  name: "Alignment Valve"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Firefly"
+
+Vac_Pack:
+  name: "Vac Pack"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Firefly"
+  attr: "6.1% Damage"
+
+# ----------------------------------------------------------------- EOF
