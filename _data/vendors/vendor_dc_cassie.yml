@@ -1,0 +1,12 @@
+# ----------------------------------------------------------------- WASHINGTON : CASSIE
+
+- name: "Washington : Cassie"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+# ----------------------------------------------------------------- EOF

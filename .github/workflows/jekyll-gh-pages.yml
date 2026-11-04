@@ -32,6 +32,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Merge item data
         run: ruby scripts/merge-items.rb
+      - name: Merge vendor data
+        run: ruby scripts/merge-vendors.rb
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

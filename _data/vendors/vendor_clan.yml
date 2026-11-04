@@ -1,0 +1,92 @@
+# ----------------------------------------------------------------- WASHINGTON : CLAN VENDOR
+
+- name: "Washington : Clan Vendor"
+  inventory:
+    - item_id: "Robin"
+      price: "15,567 Credits"
+      coreattr1: ["red", "11.4% Weapon Damage", false]
+      2ndattr1: ["red", "5.1% Critical Hit Chance", false]
+      2ndattr2: ["yellow", "16.7% Repair Skills", false]
+      talent: "Perfect Gunsligner"
+
+    - item_id: "Nina_Prone_Pads"
+      price: "5,098 Credits"
+      coreattr1: ["red", "13.4% Weapon Damage", false]
+      2ndattr1: ["red", "10.1% Critical Hit Damage", false]
+
+    - item_id: "Grave_Holster"
+      price: "5,666 Credits"
+      coreattr1: ["red", "10.1% Weapon Damage", false]
+      2ndattr1: ["red", "5.8% Critical Hit Chance", false]
+
+    - item_id: "Rigger_Dust_Mask"
+      price: "5,095 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "10.6% Skill Haste", false]
+
+    - item_id: "M870_Express"
+      price: "8,490 Credits"
+      damage: "1.19M"
+      coreattr1: ["red", "10.6% Shotgun Damage", false]
+      coreattr2: ["red", "11% Damage to Armor", false]
+      2ndattr1: ["red", "18% Optimal Range", false]
+      talent: "Vindictive"
+
+    - item_id: "Prophet"
+      price: "15,581 Credits"
+      damage: "1.19M"
+      coreattr1: ["red", "11.9% Pistol Damage", false]
+      2ndattr1: ["red", "14.2% Rate of Fire", false]
+      talent: "Perfect Determined"
+
+    - item_id: "Lucznik_Gloves"
+      price: "5,095 Credits"
+      coreattr1: ["red", "12.4% Weapon Damage", false]
+      2ndattr1: ["red", "4.8% Critical Hit Chance", false]
+      2ndattr2: ["blue", "3,873 HP/s Armor Regen", false]
+
+    - item_id: "Olympic_Gloves"
+      price: "5,661 Credits"
+      coreattr1: ["blue", "132,656 Armor", false]
+      2ndattr1: ["blue", "4,137 HP/s Armor Regen", false]
+      2ndattr2: ["yellow", "8.8% Status Effects", false]
+
+    - item_id: "Black_Market_AK_M"
+      price: "8,501 Credits"
+      damage: "101.52k"
+      coreattr1: ["red", "11% Assault Rifle Damage", false]
+      coreattr2: ["red", "20.5% Health Damage", false]
+      2ndattr1: ["red", "8% DMG to target out of cover", false]
+      talent: "Steady Handed"
+
+    - item_id: "Duban_Fitted_Hauler"
+      price: "15,567 Credits"
+      coreattr1: ["yellow", "17.3 Repair Skills", false]
+      coreattr2: ["blue", "16,227 Health", false]
+      coreattr3: ["grey", "Empty Gear Mod Slot", false]
+      talent: "Vigilance"
+
+    - item_id: "Penumbra_Mask"
+      price: "5,098 Credits"
+      coreattr1: ["red", "11.1% Weapon Damage", false]
+      2ndattr1: ["red", "7.5% Weapon Handling", false]
+      2ndattr2: ["red", "4.6% Critical Hit Chance", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+    - item_id: "Offensive_System_Dexterity"
+      price: "4,527 Credits"
+      attr: "10.4% Critical Hit Damage"
+
+    - item_id: "Utility_System_Electronics"
+      price: "4,533 Credits"
+      attr: "17.5% Repair Skills"
+
+    - item_id: "Micropulse_Frequency"
+      price: "4,527 Credits"
+      attr: "5.1% Damage Reduction"
+
+    - item_id: "Vac_Pack"
+      price: "4,525 Credits"
+      attr: "6.1% Damage"
+
+# ----------------------------------------------------------------- EOF
