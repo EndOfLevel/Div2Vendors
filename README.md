@@ -1,2 +1,3 @@
 # Div2Vendors
-Division 2 Vendor items
+
+[https://github.com/EndOfLevel/Div2Vendors](https://github.com/EndOfLevel/Div2Vendors)
