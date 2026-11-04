@@ -1,0 +1,23 @@
+# ----------------------------------------------------------------- SKILL MODS : DRONE
+
+Additional_Ordnance:
+  name: "Additional Ordnance"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Drone"
+
+Hollow_Point_Bullets:
+  name: "Hollow-point Bullets"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Drone"
+  attr: "6.5% Armor Repair"
+
+Micropulse_Frequency:
+  name: "Micropulse Frequency"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Drone"
+  attr: "5.1% Damage Reduction"
+
+# ----------------------------------------------------------------- EOF

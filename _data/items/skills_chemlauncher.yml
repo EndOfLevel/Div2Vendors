@@ -1,0 +1,23 @@
+# ----------------------------------------------------------------- SKILL MODS : CHEM LAUNCHER
+
+Improved_Sticky_Launcher:
+  name: "Improved Sticky Launcher"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Chem Launcher"
+
+Improved_Sticky_Payload:
+  name: "Improved Sticky Payload"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Chem Launcher"
+  attr: "4% Burn Duration"
+
+Pharmacokinetic_Enhancer:
+  name: "Pharmacokinetic Enhancer"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Chem Launcher"
+  attr: "5.9% Skill Haste"
+
+# ----------------------------------------------------------------- EOF

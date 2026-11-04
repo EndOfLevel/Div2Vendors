@@ -1,0 +1,46 @@
+# ----------------------------------------------------------------- GEAR : GLOVES
+
+Diamondback_Gloves:
+  name: "Diamondback Gloves"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Gila Guard"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["yellow", "117,983 Armor", false]
+  coreattr2: ["yellow", "11% Skill Haste", false]
+  2ndattr1: ["yellow", "7% Skill Damage", false]
+
+Lucznik_Gloves:
+  name: "Lucznik Gloves"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Zwiadowka Sp. z o.o."
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["red", "12.4% Weapon Damage", false]
+  2ndattr1: ["red", "4.8% Critical Hit Chance", false]
+  2ndattr2: ["blue", "3,873 HP/s Armor Regen", false]
+
+Olympic_Gloves:
+  name: "Olympic Gloves"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Yaahl Gear"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["blue", "132,656 Armor", false]
+  2ndattr1: ["blue", "4,137 HP/s Armor Regen", false]
+  2ndattr2: ["yellow", "8.8% Status Effects", false]
+
+Shadow_Boxing_Gloves:
+  name: "Shadow Boxing Gloves"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Core Strength"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["yellow", "122,226 Armor", false]
+  coreattr2: ["yellow", "7.6% Headshot Damage", false]
+
+# ----------------------------------------------------------------- EOF

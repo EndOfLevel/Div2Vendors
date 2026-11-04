@@ -1,0 +1,93 @@
+# ----------------------------------------------------------------- GEAR : CHEST
+
+Escorter_Combat_Harness:
+  name: "Escorter Combat Harness"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Sokolov Concern"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "10.7% Weapon Damage", false]
+  coreattr2: ["yellow", "4.5% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "16.1% Repair Skills", false]
+  talent: "Entrench"
+
+Harnesk_Armor:
+  name: "Harnesk Armor"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Fenris Group AB"
+  type: "Chest"
+  armor: "158k"
+
+Hotshot_Vest:
+  name: "Hotshot Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Eclipse Protocol"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "13.4% Weapon Damage", false]
+  coreattr2: ["yellow", "6% Weapon Handling", false]
+  talent: "Daring"
+
+Lightweight_Ballistic_Vest:
+  name: "Lightweight Ballistic Vest"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Sokolov Concern"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "11.1% Weapon Damage", false]
+  coreattr2: ["yellow", "9.8% Critical Hit Damage", false]
+  2ndattr1: ["yellow", "8% Explosive Resistance", false]
+  talent: "Explosive Delivery"
+
+Revamped_Vest:
+  name: "Revamped Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Refactor"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "5% Critical Hit Chance", false]
+  talent: "Increased Interest"
+
+Robin:
+  name: "Robin"
+  class: "GEAR"
+  rarity: "HighEndNamed"
+  manufacturer: "Royal Works"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["red", "11.4% Weapon Damage", false]
+  2ndattr1: ["red", "5.1% Critical Hit Chance", false]
+  2ndattr2: ["yellow", "16.7% Repair Skills", false]
+  talent: "Perfect Gunsligner"
+
+Tania_Silent_Vest:
+  name: "Tania Silent Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Aces & Eights"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "10.2% Weapon Damage", false]
+  coreattr2: ["yellow", "4.3% Critical Hit Chance", false]
+  talent: "No Limit"
+
+Tatami_Cuirass:
+  name: "Tatami Cuirass"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Murakami Industries"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "+1 Skill Core", false]
+  2ndattr1: ["yellow", "16.3% Repair Skills", false]
+  2ndattr2: ["blue", "3,727 HP/s Armor Regen", false]
+  2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+  talent: "Tamper Proof"
+
+# ----------------------------------------------------------------- EOF

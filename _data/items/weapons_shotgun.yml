@@ -1,0 +1,372 @@
+# ----------------------------------------------------------------- WEAPONS : SHOTGUN
+
+ACS-12:
+  name: "ACS-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 20
+
+Stack_Broker:
+  name: "Stack Broker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 150,624
+  rpm: 360
+  mag: 20
+
+Lefty:
+  name: "Lefty"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 20
+
+Rock_n_Roll:
+  name: "Rock n' Roll"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 30
+
+Double_Barrel_Shotgun:
+  name: "Double Barrel Shotgun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Double_Barrel_Shotgun_Replica:
+  name: "Double Barrel Shotgun Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Boomstick:
+  name: "Boomstick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Sawed_Off_Double_Barrel:
+  name: "Sawed-Off Double Barrel"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+Firestarter:
+  name: "Firestarter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+Backup_Boomstick:
+  name: "Backup Boomstick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+KSG_Shotgun:
+  name: "KSG Shotgun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+The_Send_Off:
+  name: "The Send-Off"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+Overlord:
+  name: "Overlord"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+Custom_M870_MCS:
+  name: "Custom M870 MCS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Custom_M870_MCS_Replica:
+  name: "Custom M870 MCS Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+M870_Express:
+  name: "M870 Express"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+M870_Express_Replica:
+  name: "M870 Express Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Military_M870:
+  name: "Military M870"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Lockdown:
+  name: "Lockdown"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Cuelebre:
+  name: "Cuélebre"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Black_Market_SASG_12_S:
+  name: "Black Market SASG-12 S"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Black_Market_SASG_12_S_Replica:
+  name: "Black Market SASG-12 S Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+SASG_12:
+  name: "SASG-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Tactical_SASG_12_K:
+  name: "Tactical SASG-12 K"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Tsunami:
+  name: "Tsunami"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+SPAS_12:
+  name: "SPAS-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+SPAS_12_Replica:
+  name: "SPAS-12 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Thorn:
+  name: "Thorn"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Lullaby:
+  name: "Lullaby"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Sweet_Dreams:
+  name: "Sweet Dreams"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Marine_Super_90:
+  name: "Marine Super 90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Super_90:
+  name: "Super 90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Super_90_Replica:
+  name: "Super 90 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Tactical_Super_90_SBS:
+  name: "Tactical Super 90 SBS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Tactical_Super_90_SBS_Replica:
+  name: "Tactical Super 90 SBS Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Like_Glue:
+  name: "Like_Glue"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+The_Sheriff:
+  name: "The Sheriff"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 526,412
+  rpm: 160
+  mag: 8
+
+Enforcer:
+  name: "Enforcer"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Six12:
+  name: "Six12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+The_Mop:
+  name: "The Mop"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+Scorpio:
+  name: "Scorpio"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+# ----------------------------------------------------------------- EOF

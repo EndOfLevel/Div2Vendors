@@ -1,0 +1,92 @@
+# ----------------------------------------------------------------- GEAR : BACKPACK
+
+Battery_Pack:
+  name: "Battery Pack"
+  class: "GEAR"
+  rarity: "HighEndNamed"
+  manufacturer: "Empress International"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+
+Chemar_Backpack:
+  name: "Chemar Backpack"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Golan Gear Ltd"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["blue", "116,500 Armor", false]
+  coreattr2: ["blue", "3,937 HP/s Armor Regen", false]
+  2ndattr1: ["red", "10.2% Critical Hit Damage", false]
+  talent: "Safeguard"
+
+Duban_Fitted_Hauler:
+  name: "Duban Fitted Hauler"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Richter & Kaiser GmbH"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "17.3 Repair Skills", false]
+  coreattr2: ["blue", "16,227 Health", false]
+  coreattr3: ["grey", "Empty Gear Mod Slot", false]
+  talent: "Vigilance"
+
+Gila_Inventory_System:
+  name: "Gila Inventory System"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Gila Guard"
+  type: "Backpack"
+  armor: "131k"
+
+Liquid_Engineer:
+  name: "Liquid Engineer"
+  class: "GEAR"
+  rarity: "HighEndNamed"
+  manufacturer: "Belstone Armory"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "126,432 Armor", false]
+  coreattr2: ["yellow", "4.6% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "10.3% Critical Hit Damage", false]
+  talent: "Perfect Bloodsucker"
+
+Maree_Range_Pack:
+  name: "Maree Range Pack"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Douglas & Harding"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["red", "10.7% Weapon Damage", false]
+  2ndattr1: ["yellow", "8.6% Status Effects", false]
+  2ndattr2: ["blue", "8.6% Hazard Protection", false]
+  2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+  talent: "Vigilance"
+
+Trapezius_Go_Bag:
+  name: "Trapezius Go-bag"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Wyvern Wear"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "16% Repair Skills", false]
+  2ndattr1: ["yellow", "15,493 Health", false]
+  talent: "Leadership"
+
+Ziba_Low_Profile_Pack:
+  name: "Ziba Low Profile Pack"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Aces & Eights"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "10.9% Weapon Damage", false]
+  coreattr2: ["yellow", "10.2% Skill Haste", false]
+  talent: "Ace in the Sleeve"
+
+# ----------------------------------------------------------------- EOF

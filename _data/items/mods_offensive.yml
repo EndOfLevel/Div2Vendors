@@ -1,0 +1,23 @@
+# ----------------------------------------------------------------- GEAR MODS : OFFENSIVE
+
+Offensive_Protocol_Critical:
+  name: "Offensive Protocol: Critical"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Offensive"
+
+Offensive_System_Dexterity:
+  name: "Offensive System: Dexterity"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Offensive"
+  attr: "10.4% Critical Hit Damage"
+
+Offensive_System_Firearms:
+  name: "Offensive System: Firearms"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Offensive"
+  attr: "10% Critical Hit Damage"
+
+# ----------------------------------------------------------------- EOF

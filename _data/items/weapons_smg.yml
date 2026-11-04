@@ -1,0 +1,444 @@
+# ----------------------------------------------------------------- WEAPONS : SMG
+
+Converted_SMG_9_A2:
+  name: "Converted SMG-9 A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 46,734
+  rpm: 1000
+  mag: 32
+
+Converted_SMG_9:
+  name: "Converted SMG-9"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 48,511
+  rpm: 1000
+  mag: 32
+
+Converted_SMG_9_Replica:
+  name: "Converted SMG-9 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 48,511
+  rpm: 1000
+  mag: 32
+
+Purist:
+  name: "Purist"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 46,734
+  rpm: 1000
+  mag: 32
+
+MP5_ST:
+  name: "MP5 ST"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5_ST_Replica:
+  name: "MP5 ST Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5A2:
+  name: "MP5A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5_N:
+  name: "MP5-N"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+Cabaret:
+  name: "Cabaret"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+CMMG_Banshee:
+  name: "CMMG Banshee"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 47,848
+  rpm: 900
+  mag: 32
+
+The_Grudge:
+  name: "The Grudge"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 47,848
+  rpm: 900
+  mag: 32
+
+Lady_Death:
+  name: "Lady Death"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 35,409
+  rpm: 900
+  mag: 32
+
+PP_19:
+  name: "PP-19"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+Enhanced_PP_19:
+  name: "Enhanced PP-19"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+Cold_Relations:
+  name: "Cold Relations"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+AUG_A3_Para_XS:
+  name: "AUG A3 Para XS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Enhanced_AUG_A3P:
+  name: "Enhanced AUG A3P"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Tactical_AUG_A3P:
+  name: "Tactical AUG A3P"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Tactical_AUG_A3P_Replica:
+  name: "Tactical AUG A3P Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Interchange:
+  name: "Interchange"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Vector_SBR_45_ACP:
+  name: "Vector SBR .45 ACP"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Vector_SBR_45_ACP_Replica:
+  name: "Vector SBR .45 ACP"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Vector_SBR_9mm:
+  name: "Vector SBR 9mm"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,306
+  rpm: 1,200
+  mag: 33
+
+Tactical_Vector_SBR_9mm:
+  name: "Tactical Vector SBR 9mm"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 40,505
+  rpm: 1,200
+  mag: 19
+
+Froth:
+  name: "Froth"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 40,505
+  rpm: 1,200
+  mag: 19
+
+Dark_Winter:
+  name: "Dark Winter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Ouroboros:
+  name: "Ouroboros"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,403
+  mag: 50
+
+MP7:
+  name: "MP7"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Swap_Chain:
+  name: "Swap Chain"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Oxpecker:
+  name: "Oxpecker"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Police_T821:
+  name: "Police T821"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Black_Market_T821:
+  name: "Black Market T821"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Black_Market_T821_Replica:
+  name: "Black Market T821 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Police_UMP_45:
+  name: "Police UMP-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Tactical_UMP_45:
+  name: "Tactical UMP-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Tactical_UMP_45_Replica:
+  name: "Tactical UMP-45 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Slingshot:
+  name: "Slingshot"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+M1928:
+  name: "M1928"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 78,416
+  rpm: 600
+  mag: 30
+
+Tommy_Gun:
+  name: "Tommy Gun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 50,627
+  rpm: 900
+  mag: 50
+
+The_Sleigher:
+  name: "The Sleigher"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 92,989
+  rpm: 250
+  mag: 50
+
+Grown_Great:
+  name: "Grown Great"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,627
+  rpm: 900
+  mag: 50
+
+P90:
+  name: "P90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+P90_Replica:
+  name: "P90 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+Emelines_Guard:
+  name: "Emeline's Guard"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+The_Chatterbox:
+  name: "The Chatterbox"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 850
+  mag: 50
+
+MPX:
+  name: "MPX"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+Safety_Distance:
+  name: "Safety Distance"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+The_Apartment:
+  name: "The Apartment"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+Backfire:
+  name: "Backfire"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+# ----------------------------------------------------------------- EOF
