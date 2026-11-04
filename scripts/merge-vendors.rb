@@ -4,6 +4,8 @@ require "fileutils"
 files = Dir.glob("_data/vendors/*.yml").sort
 abort "No vendor files found in _data/vendors/" if files.empty?
 
+puts "Files: #{files.inspect}"
+
 vendors = []
 
 files.each do |file|
@@ -16,4 +18,6 @@ end
 
 FileUtils.mkdir_p("_data")
 File.write("_data/vendors.yml", YAML.dump(vendors))
+
 puts "Wrote #{vendors.size} vendors to _data/vendors.yml"
+puts File.read("_data/vendors.yml").lines.first(30)
