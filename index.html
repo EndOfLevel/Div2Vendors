@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<hr/>
+
+{% for vendor in site.data.vendors %}
+  <h2>{{ vendor.name }}</h2>
+
+  <articles>
+    {% for entry in vendor.inventory %}
+      {% assign item = site.data.items[entry.item_id] %}
+      <article>
+        <table class="{{ item.class }}">
+          <tr><th class="{{ item.rarity }}">{{ item.name }}</th></tr>
+          {% case item.class %}
+            {% when 'WEAPON' %}
+              <tr><td>{{ item.type }}</td></tr>
+              <tr><td><abbr>DMG</abbr>{{ item.damage }}</td><td><abbr>RPM</abbr>{{ item.rpm }}</td><td><abbr>MAG</abbr>{{ item.mag }}</td></tr>
+              <tr><td>
+                {% if entry.coreattr1 or item.coreattr1 or item.coreattr2 or item.coreattr2 or item.coreattr3 or item.coreattr3 %}
+                  {% if entry.coreattr1 or item.coreattr1 %}
+                    <span class="clsAttr god_{{ entry.coreattr1[2] | default: item.coreattr1[2] }}">{{ entry.coreattr1[0] | default: item.coreattr1[0] }} {{ entry.coreattr1[1] | default: item.coreattr1[1] }}</span>
+                  {% endif %}
+                  {% if entry.coreattr2 or item.coreattr2 %}
+                    <span class="clsAttr god_{{ entry.coreattr2[2] | default: item.coreattr2[2] }}">{{ entry.coreattr2[0] | default: item.coreattr2[0] }} {{ entry.coreattr2[1] | default: item.coreattr2[1] }}</span>
+                  {% endif %}
+                  {% if entry.coreattr3 or item.coreattr3 %}
+                    <span class="clsAttr god_{{ entry.coreattr3[2] | default: item.coreattr3[2] }}">{{ entry.coreattr3[0] | default: item.coreattr3[0] }} {{ entry.coreattr3[1] | default: item.coreattr3[1] }}</span>
+                  {% endif %}
+                {% else %}
+                  <span class="clsAttr">-</span>
+                {% endif %}
+              </td></tr>
+              <tr><td>
+                {% if entry.2ndattr1 or item.2ndattr1 or item.2ndattr2 or item.2ndattr2 %}
+                  {% if entry.2ndattr1 or item.2ndattr1 %}
+                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}">{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
+                  {% endif %}
+                  {% if entry.2ndattr2 or item.2ndattr2 %}
+                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}">{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
+                  {% endif %}
+                {% else %}
+                  <span class="clsAttr">-</span>
+                {% endif %}
+              </td></tr>
+              {% if entry.talent %}
+                <tr><td>{{ entry.talent }}</td></tr>
+              {% elsif item.talent %}
+                <tr><td>{{ item.talent }}</td></tr>
+              {% endif %}
+            {% when 'GEAR' %}
+              <tr><td>{{ item.manufacturer }}</td></tr>
+              <tr><td><abbr>Slot</abbr>{{ item.type }}</td><td><abbr>Armor</abbr>{{ item.armor }}</td></tr>
+              <tr><td>
+                <span class="clsAttr god_{{ entry.attr1[2] | default: item.attr1[2] }}">{{ entry.attr1[0] | default: item.attr1[0] }} {{ entry.attr1[1] | default: item.attr1[1] }}</span>
+              </td></tr>
+              <tr><td>
+                {% if entry.2ndattr1 or item.2ndattr1 or item.2ndattr2 or item.2ndattr2 %}
+                  {% if entry.2ndattr1 or item.2ndattr1 %}
+                    <span class="clsAttr god_{{ entry.2ndattr1[2] | default: item.2ndattr1[2] }}">{{ entry.2ndattr1[0] | default: item.2ndattr1[0] }} {{ entry.2ndattr1[1] | default: item.2ndattr1[1] }}</span>
+                  {% endif %}
+                  {% if entry.2ndattr2 or item.2ndattr2 %}
+                    <span class="clsAttr god_{{ entry.2ndattr2[2] | default: item.2ndattr2[2] }}">{{ entry.2ndattr2[0] | default: item.2ndattr2[0] }} {{ entry.2ndattr2[1] | default: item.2ndattr2[1] }}</span>
+                  {% endif %}
+                {% else %}
+                  <span class="clsAttr">-</span>
+                {% endif %}
+              </td></tr>
+              {% if entry.talent %}
+                <tr><td>{{ entry.talent }}</td></tr>
+              {% elsif item.talent %}
+                <tr><td>{{ item.talent }}</td></tr>
+              {% endif %}
+            {% when 'MOD' %}
+              <tr><td>{{ item.type }}</td></tr>
+              <tr><td>{{ entry.attr }}</td></tr>
+          {% endcase %}
+        </table>
+      </article>
+    {% endfor %}
+  </articles>
+
+  <hr/>
+{% endfor %}

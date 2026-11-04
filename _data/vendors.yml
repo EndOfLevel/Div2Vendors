@@ -1,0 +1,140 @@
+- name: "Washington : White House"
+  inventory:
+    - item_id: "Battery_Pack"
+      price: "15,528 Credits"
+      coreattr2: ["yellow", "7% Skill Damage", false]
+      2ndattr1: ["yellow", "8.3% Status Effects", false]
+      talent: "Strained"
+
+    - item_id: "Police_T821"
+      price: "8,484 Credits"
+      coreattr1: ["red", "10.9% SMG Damage", false]
+      coreattr2: ["red", "15% Critical Hit Chance", false]
+      2ndattr1: ["red", "7.5% Health Damage", false]
+      talent: "Steady Handed"
+
+    - item_id: "FAL"
+      price: "8,478 Credits"
+      coreattr1: ["red", "11.7% Assault Rifle Damage", false]
+      coreattr2: ["red", "16% Health Damage", false]
+      2ndattr1: ["red", "7.3% Reload Speed", false]
+      talent: "Killer"
+
+    - item_id: "First_Wave_PF45"
+      price: "5,644 Credits"
+      coreattr1: ["red", "6.5% Pistol Damage", false]
+      coreattr2: ["red", "10% Headshot Damage", true]
+      talent: "Lucky Shot"
+
+    - item_id: "Chemar_Backpack"
+      price: "5,644 Credits"
+      coreattr1: ["yellow", "112,237 Armor", false]
+      coreattr2: ["yellow", "8.9% Hazard Protection", false]
+      2ndattr1: ["yellow", "15.4% Repair Skills", false]
+      talent: "Safeguard"
+
+    - item_id: "Harnesk_Armor"
+      price: "6,220 Credits"
+      coreattr1: ["red", "6.5% Weapon Damage", false]
+      coreattr2: ["blue", "8.5% Hazard Protection", false]
+      2ndattr1: ["blue", "16,153 Health", false]
+      talent: "Empathic Resolve"
+
+    - item_id: "Offensive_Protocol_Critical"
+      price: "4,523 Credits"
+      attr: "7.5% Headshot Damage"
+
+    - item_id: "Additional_Ordnance"
+      price: "4,523 Credits"
+      attr: "5% Damage Reduction"
+
+    - item_id: "Spare_Parts"
+      price: "4,522 Credits"
+      attr: "6% Duration"
+
+    - item_id: "Improved_Sticky_Launcher"
+      price: "4,521 Credits"
+      attr: "6.4% Duration"
+
+- name: "Washington : Clan Vendor"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Theater Settlement"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Castle Settlement"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Campus Settlement"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Dark Zone South Vendor"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Dark Zone South West"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Dark Zone South East"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Cassie"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+- name: "Washington : Benitez"
+  inventory:
+    - item_id: "ACR_E"
+      price: "1,500 Credits"
+      coreattr1: ["red", "15% Assault Rifle Damage", true]
+      coreattr2: ["red", "10% Health", false]
+      2ndattr1: ["red", "3.7% Rate of Fire", false]
+      talent: "Strained"
+
+

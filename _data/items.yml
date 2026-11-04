@@ -1,0 +1,3082 @@
+# ----------------------------------------------------------------- WEAPONS
+# https://docs.google.com/spreadsheets/u/0/d/1nrPBmOrtpkEW1j5fbcRT7L-AXgsGOqMqxXoVtopsiGM/htmlview#gid=0
+
+ACR:
+  name: "ACR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 58,896
+  rpm: 650
+  mag: 30
+
+ACR_E:
+  name: "ACR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 58,896
+  rpm: 650
+  mag: 30
+
+AK_M:
+  name: "AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 67,175
+  rpm: 600
+  mag: 30
+
+Military_AK_M:
+  name: "Military AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+Black_Market_AK_M:
+  name: "Black Market AK-M"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+Black_Market_AK_M_Replica:
+  name: "Black Market AK-M Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+First_Sight:
+  name: "First Sight"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 67,175
+  rpm: 600
+  mag: 30
+
+Manic:
+  name: "Manic"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 64,716
+  rpm: 600
+  mag: 30
+
+AUG_A3_CQC:
+  name: "AUG A3-CQC"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 680
+  mag: 42
+
+Invisible_Hand:
+  name: "Invisible Hand"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 782
+  mag: 42
+
+The_Bighorn:
+  name: "The Bighorn"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,218
+  rpm: 800
+  mag: 42
+
+Carbine_7:
+  name: "Carbine 7"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,790
+  rpm: 790
+  mag: 30
+
+The_Drill:
+  name: "The Drill"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 49,790
+  rpm: 790
+  mag: 30
+
+F2000:
+  name: "F2000"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+F2000_Replica:
+  name: "F2000 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+Shield_Splinterer:
+  name: "Shield Splinterer"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+Agitator:
+  name: "Agitator"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 49,104
+  rpm: 850
+  mag: 30
+
+FAL:
+  name: "FAL"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58:
+  name: "FAL SA-58"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58_Para:
+  name: "FAL SA-58 Para"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAL_SA_58_Para_Replica:
+  name: "FAL SA-58 Para Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+Goalie:
+  name: "Goalie"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+Strega:
+  name: "Strega"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,646
+  rpm: 700
+  mag: 20
+
+FAMAS_2010:
+  name: "FAMAS 2010"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+FAMAS_2010_Replica:
+  name: "FAMAS 2010"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Huntsman:
+  name: "Huntsman"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Burn_Out:
+  name: "Burn Out"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 45,272
+  rpm: 900
+  mag: 30
+
+Military_G36:
+  name: "Military G36"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_C:
+  name: "G36 C"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_Enhanced:
+  name: "G36 Enhanced"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+G36_Enhanced_Replica:
+  name: "G36 Enhanced Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Caretaker:
+  name: "Caretaker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Born Great:
+  name: "Born Great"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 52,564
+  rpm: 750
+  mag: 30
+
+Honey_Badger:
+  name: "Honey Badger"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 51,271
+  rpm: 800
+  mag: 30
+
+Savage_Wolverine:
+  name: "Savage Wolverine"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 51,271
+  rpm: 800
+  mag: 30
+
+Police_M4:
+  name: "Police M4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Police_M4_Replica:
+  name: "Police M4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Pyromaniac:
+  name: "Pyromaniac"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 30
+
+Lexington:
+  name: "Lexington"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 48,699
+  rpm: 850
+  mag: 30
+
+St_Elmos_Engine:
+  name: "St. Elmo's Engine"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 46,917
+  rpm: 850
+  mag: 40
+
+Mk16:
+  name: "Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+SOCOM_Mk16:
+  name: "SOCOM Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Tactical_Mk16:
+  name: "Tactical Mk16"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Tactical_Mk16_Replica:
+  name: "Tactical Mk16 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Lud:
+  name: "Lud"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Caduceus:
+  name: "Caduceus"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 59,221
+  rpm: 650
+  mag: 30
+
+Military_P416:
+  name: "Military P416"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Custom_P416_G3:
+  name: "Custom P416 G3"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Glory_Daze:
+  name: "Glory Daze"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+Eagle_Bearer:
+  name: "Eagle Bearer"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 47,364
+  rpm: 850
+  mag: 30
+
+PDR:
+  name: "PDR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Test_Subject:
+  name: "Test Subject"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+First_Bloom:
+  name: "First Bloom"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Capacitor:
+  name: "Capacitor"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 57,617
+  rpm: 700
+  mag: 30
+
+Sig_Sauer_556:
+  name: "Sig Sauer 556"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 55,934
+  rpm: 700
+  mag: 30
+
+Mechanical_Animal:
+  name: "Mechanical Animal"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 55,934
+  rpm: 700
+  mag: 30
+
+TKB_408:
+  name: "TKB-408"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 63,508
+  rpm: 600
+  mag: 30
+
+Kingbreaker:
+  name: "Kingbreaker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 63,508
+  rpm: 600
+  mag: 30
+
+CTAR_21:
+  name: "CTAR-21"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Assault Rifle"
+  damage: 44,802
+  rpm: 900
+  mag: 30
+
+The_Railsplitter:
+  name: "The Railsplitter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Assault Rifle"
+  damage: 44,802
+  rpm: 900
+  mag: 30
+
+Chameleon:
+  name: "Chameleon"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Assault Rifle"
+  damage: 44,670
+  rpm: 900
+  mag: 30
+
+Stoner_LAMG:
+  name: "Stoner LAMG"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 62,361
+  rpm: 580
+  mag: 200
+
+Quiet_Roar:
+  name: "Quiet Roar"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 62,361
+  rpm: 580
+  mag: 200
+
+Bluescreen:
+  name: "Bluescreen"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 62,361
+  rpm: 720
+  mag: 200
+
+Military_L86_LSW:
+  name: "Military L86 LSW"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 61,096
+  rpm: 700
+  mag: 30
+
+Custom_L86_A2:
+  name: "Custom L86 A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 61,096
+  rpm: 700
+  mag: 30
+
+Custom_L86_A2_Replica:
+  name: "Custom L86 A2 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 61,096
+  rpm: 700
+  mag: 30
+
+Tabula_Rasa:
+  name: "Tabula Rasa"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 61,096
+  rpm: 700
+  mag: 30
+
+HK_GR9:
+  name: "HK GR9"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 49,480
+  rpm: 750
+  mag: 200
+
+Dare:
+  name: "Dare"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 49,480
+  rpm: 750
+  mag: 200
+
+Cricket:
+  name: "Cricket"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 49,480
+  rpm: 750
+  mag: 200
+
+M249_B:
+  name: "M249 B"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Tactical_M249_Para:
+  name: "Tactical M249 Para"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Military_MK46:
+  name: "Military MK46"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Military_MK46_Replica:
+  name: "Military MK46 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Black_Friday:
+  name: "Black Friday"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+The_Stinger:
+  name: "The Stinger"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Gear_Shift:
+  name: "Gear Shift"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Pestilence :
+  name: "Pestilence"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Light Machine Gun"
+  damage: 48,300
+  rpm: 850
+  mag: 100
+
+Classic_M60:
+  name: "Classic M60"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 67,711
+  rpm: 600
+  mag: 100
+
+Military_M60_E4:
+  name: "Military M60 E4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 65,233
+  rpm: 600
+  mag: 100
+
+Black_Market_M60_E6:
+  name: "Black Market M60 E6"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 65,233
+  rpm: 600
+  mag: 100
+
+Classic_M60_Replica:
+  name: "Classic M60 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 67,711
+  rpm: 600
+  mag: 100
+
+Black_Market_M60_E6_Replica:
+  name: "Black Market M60 E6"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 65,233
+  rpm: 600
+  mag: 100
+
+The_Headline_Grabber:
+  name: "The Headline-grabber"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 65,233
+  rpm: 600
+  mag: 100
+
+Good_Times:
+  name: "Good Times"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 65,234
+  rpm: 600
+  mag: 100
+
+MG5:
+  name: "MG5"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 54,322
+  rpm: 800
+  mag: 50
+
+Infantry_MG5:
+  name: "Infantry MG5"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 52,333
+  rpm: 800
+  mag: 50
+
+Infantry_MG5_Replica:
+  name: "Infantry MG5 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 52,333
+  rpm: 800
+  mag: 50
+
+Bellringer:
+  name: "Bellringer"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 52,333
+  rpm: 800
+  mag: 50
+
+Big_Show:
+  name: "Big Show"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 54,322
+  rpm: 800
+  mag: 50
+
+Sleipner:
+  name: "Sleipner"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 54,322
+  rpm: 800
+  mag: 50
+
+Iron_Lung:
+  name: "Iron Lung"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Light Machine Gun"
+  damage: 54,322
+  rpm: 800
+  mag: 50
+
+IWI_NEGEV:
+  name: "IWI NEGEV"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 54,604
+  rpm: 750
+  mag: 100
+
+Carnage:
+  name: "Carnage"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 54,604
+  rpm: 750
+  mag: 100
+
+Bullet_King:
+  name: "Bullet King"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Light Machine Gun"
+  damage: 54,604
+  rpm: 750
+  mag: 100
+
+Classic_RPK_74:
+  name: "Classic RPK-74"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Military_RPK_74:
+  name: "Military RPK-74"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Black_Market_RPK_74:
+  name: "Black Market RPK-74"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Black_Market_RPK_74_Replica:
+  name: "Black Market RPK-74"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Rusty:
+  name: "Rusty"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+New_Reliable:
+  name: "New Reliable"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Pakhan:
+  name: "Pakhan"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Light Machine Gun"
+  damage: 71,538
+  rpm: 600
+  mag: 40
+
+Big_Alejandro:
+  name: "Big Alejandro"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Light Machine Gun"
+  damage: 39,278
+  rpm: 1100
+  mag: 200
+
+Converted_SMG_9_A2:
+  name: "Converted SMG-9 A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 46,734
+  rpm: 1000
+  mag: 32
+
+Converted_SMG_9:
+  name: "Converted SMG-9"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 48,511
+  rpm: 1000
+  mag: 32
+
+Converted_SMG_9_Replica:
+  name: "Converted SMG-9 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 48,511
+  rpm: 1000
+  mag: 32
+
+Purist:
+  name: "Purist"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 46,734
+  rpm: 1000
+  mag: 32
+
+MP5_ST:
+  name: "MP5 ST"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5_ST_Replica:
+  name: "MP5 ST Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5A2:
+  name: "MP5A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+MP5_N:
+  name: "MP5-N"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+Cabaret:
+  name: "Cabaret"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 53,903
+  rpm: 800
+  mag: 30
+
+CMMG_Banshee:
+  name: "CMMG Banshee"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 47,848
+  rpm: 900
+  mag: 32
+
+The_Grudge:
+  name: "The Grudge"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 47,848
+  rpm: 900
+  mag: 32
+
+Lady_Death:
+  name: "Lady Death"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 35,409
+  rpm: 900
+  mag: 32
+
+PP_19:
+  name: "PP-19"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+Enhanced_PP_19:
+  name: "Enhanced PP-19"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+Cold_Relations:
+  name: "Cold Relations"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 63,593
+  rpm: 700
+  mag: 53
+
+AUG_A3_Para_XS:
+  name: "AUG A3 Para XS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Enhanced_AUG_A3P:
+  name: "Enhanced AUG A3P"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Tactical_AUG_A3P:
+  name: "Tactical AUG A3P"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Tactical_AUG_A3P_Replica:
+  name: "Tactical AUG A3P Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Interchange:
+  name: "Interchange"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 58,661
+  rpm: 725
+  mag: 25
+
+Vector_SBR_45_ACP:
+  name: "Vector SBR .45 ACP"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Vector_SBR_45_ACP_Replica:
+  name: "Vector SBR .45 ACP"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Vector_SBR_9mm:
+  name: "Vector SBR 9mm"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,306
+  rpm: 1,200
+  mag: 33
+
+Tactical_Vector_SBR_9mm:
+  name: "Tactical Vector SBR 9mm"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 40,505
+  rpm: 1,200
+  mag: 19
+
+Froth:
+  name: "Froth"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 40,505
+  rpm: 1,200
+  mag: 19
+
+Dark_Winter:
+  name: "Dark Winter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,200
+  mag: 25
+
+Ouroboros:
+  name: "Ouroboros"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 38,300
+  rpm: 1,403
+  mag: 50
+
+MP7:
+  name: "MP7"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Swap_Chain:
+  name: "Swap Chain"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Oxpecker:
+  name: "Oxpecker"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 46,405
+  rpm: 950
+  mag: 40
+
+Police_T821:
+  name: "Police T821"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Black_Market_T821:
+  name: "Black Market T821"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Black_Market_T821_Replica:
+  name: "Black Market T821 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 76,916
+  rpm: 550
+  mag: 32
+
+Police_UMP_45:
+  name: "Police UMP-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Tactical_UMP_45:
+  name: "Tactical UMP-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Tactical_UMP_45_Replica:
+  name: "Tactical UMP-45 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+Slingshot:
+  name: "Slingshot"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 63,691
+  rpm: 650
+  mag: 25
+
+M1928:
+  name: "M1928"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 78,416
+  rpm: 600
+  mag: 30
+
+Tommy_Gun:
+  name: "Tommy Gun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 50,627
+  rpm: 900
+  mag: 50
+
+The_Sleigher:
+  name: "The Sleigher"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 92,989
+  rpm: 250
+  mag: 50
+
+Grown_Great:
+  name: "Grown Great"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,627
+  rpm: 900
+  mag: 50
+
+P90:
+  name: "P90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+P90_Replica:
+  name: "P90 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+Emelines_Guard:
+  name: "Emeline's Guard"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 1,100
+  mag: 50
+
+The_Chatterbox:
+  name: "The Chatterbox"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 39,457
+  rpm: 850
+  mag: 50
+
+MPX:
+  name: "MPX"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+Safety_Distance:
+  name: "Safety Distance"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+The_Apartment:
+  name: "The Apartment"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+Backfire:
+  name: "Backfire"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Submachine Gun"
+  damage: 50,998
+  rpm: 850
+  mag: 30
+
+ACS-12:
+  name: "ACS-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 20
+
+Stack_Broker:
+  name: "Stack Broker"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 150,624
+  rpm: 360
+  mag: 20
+
+Lefty:
+  name: "Lefty"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 20
+
+Rock_n_Roll:
+  name: "Rock n' Roll"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 180,748
+  rpm: 300
+  mag: 30
+
+Double_Barrel_Shotgun:
+  name: "Double Barrel Shotgun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Double_Barrel_Shotgun_Replica:
+  name: "Double Barrel Shotgun Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Boomstick:
+  name: "Boomstick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 678,136
+  rpm: 200
+  mag: 2
+
+Sawed_Off_Double_Barrel:
+  name: "Sawed-Off Double Barrel"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+Firestarter:
+  name: "Firestarter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+Backup_Boomstick:
+  name: "Backup Boomstick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 635,712
+  rpm: 200
+  mag: 2
+
+KSG_Shotgun:
+  name: "KSG Shotgun"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+The_Send_Off:
+  name: "The Send-Off"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+Overlord:
+  name: "Overlord"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 678,928
+  rpm: 70
+  mag: 12
+
+Custom_M870_MCS:
+  name: "Custom M870 MCS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Custom_M870_MCS_Replica:
+  name: "Custom M870 MCS Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+M870_Express:
+  name: "M870 Express"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+M870_Express_Replica:
+  name: "M870 Express Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Military_M870:
+  name: "Military M870"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Lockdown:
+  name: "Lockdown"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Cuelebre:
+  name: "Cuélebre"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 703,672
+  rpm: 75
+  mag: 5
+
+Black_Market_SASG_12_S:
+  name: "Black Market SASG-12 S"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Black_Market_SASG_12_S_Replica:
+  name: "Black Market SASG-12 S Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+SASG_12:
+  name: "SASG-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Tactical_SASG_12_K:
+  name: "Tactical SASG-12 K"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+Tsunami:
+  name: "Tsunami"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 349,804
+  rpm: 180
+  mag: 7
+
+SPAS_12:
+  name: "SPAS-12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+SPAS_12_Replica:
+  name: "SPAS-12 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Thorn:
+  name: "Thorn"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Lullaby:
+  name: "Lullaby"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Sweet_Dreams:
+  name: "Sweet Dreams"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 716,008
+  rpm: 70
+  mag: 8
+
+Marine_Super_90:
+  name: "Marine Super 90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Super_90:
+  name: "Super 90"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Super_90_Replica:
+  name: "Super 90 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Tactical_Super_90_SBS:
+  name: "Tactical Super 90 SBS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Tactical_Super_90_SBS_Replica:
+  name: "Tactical Super 90 SBS Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Like_Glue:
+  name: "Like_Glue"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+The_Sheriff:
+  name: "The Sheriff"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 526,412
+  rpm: 160
+  mag: 8
+
+Enforcer:
+  name: "Enforcer"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 389,936
+  rpm: 160
+  mag: 8
+
+Six12:
+  name: "Six12"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+The_Mop:
+  name: "The Mop"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+Scorpio:
+  name: "Scorpio"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Shotgun"
+  damage: 409,568
+  rpm: 130
+  mag: 7
+
+ACR_SS:
+  name: "ACR SS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 101,828
+  rpm: 420
+  mag: 30
+
+Trader:
+  name: "Trader"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 101,828
+  rpm: 420
+  mag: 30
+
+Ruthless:
+  name: "Ruthless"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 102,269
+  rpm: 400
+  mag: 30
+
+Merciless:
+  name: "Merciless"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 102,269
+  rpm: 400
+  mag: 30
+
+UIC15_MOD2:
+  name: "UIC15 MOD2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 150,316
+  rpm: 240
+  mag: 30
+
+M16A2:
+  name: "M16A2"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 106,971
+  rpm: 400
+  mag: 30
+
+M16A2_Replica:
+  name: "M16A2 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 106,971
+  rpm: 400
+  mag: 30
+
+Whisper:
+  name: "Whisper"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 106,971
+  rpm: 400
+  mag: 30
+
+Classic_M1A:
+  name: "Classic M1A"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 231,346
+  rpm: 180
+  mag: 10
+
+Socom_M1A:
+  name: "Socom M1A"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 129,179
+  rpm: 320
+  mag: 10
+
+M1A_CQB:
+  name: "M1A CQB"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 129,179
+  rpm: 320
+  mag: 10
+
+M1A_CQB_Replica:
+  name: "M1A CQB Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 129,179
+  rpm: 320
+  mag: 10
+
+Bakers_Dozen:
+  name: "Baker's Dozen"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 231,346
+  rpm: 180
+  mag: 13
+
+Stage_Left:
+  name: "Stage Left"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 129,179
+  rpm: 320
+  mag: 10
+
+Cooler:
+  name: "Cooler"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 0
+  rpm: 320
+  mag: 100
+
+Bittersweet:
+  name: "Bittersweet"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 231,346
+  rpm: 180
+  mag: 10
+
+Doctor_Home:
+  name: "Doctor Home"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 129,269
+  rpm: 320
+  mag: 10
+
+Lightweight_M4:
+  name: "Lightweight M4"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 107,257
+  rpm: 360
+  mag: 30
+
+LVOA_C:
+  name: "LVOA-C"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 100,615
+  rpm: 380
+  mag: 30
+
+LVOA_C_Replica:
+  name: "LVOA-C Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 100,615
+  rpm: 380
+  mag: 30
+
+Surge:
+  name: "Surge"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 100,615
+  rpm: 380
+  mag: 30
+
+Urban_MDR:
+  name: "Urban MDR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 102,970
+  rpm: 380
+  mag: 20
+
+Urban_MDR_Replica:
+  name: "Urban MDR Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 102,970
+  rpm: 380
+  mag: 20
+
+Vindicator:
+  name: "Vindicator"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 102,970
+  rpm: 380
+  mag: 25
+
+Military_MK17:
+  name: "Military MK17"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 10
+
+Police_MK17:
+  name: "Police MK17"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 10
+
+Police_MK17_Replica:
+  name: "Police MK17"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 10
+
+Everlasting_Gaze:
+  name: "Everlasting Gaze"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 10
+
+SIG_716:
+  name: "SIG 716"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 121,258
+  rpm: 320
+  mag: 20
+
+SIG_716_Replica:
+  name: "SIG 716 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 121,258
+  rpm: 320
+  mag: 20
+
+SIG_716_CQB:
+  name: "SIG 716 CQB"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 125,865
+  rpm: 320
+  mag: 20
+
+Artists_Tool:
+  name: "Artist's Tool"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 125,865
+  rpm: 320
+  mag: 20
+
+The_Ravenous:
+  name: "The Ravenous"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 134,360
+  rpm: 240
+  mag: 60
+
+USC_45_ACP:
+  name: "USC .45 ACP"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 97,742
+  rpm: 420
+  mag: 20
+
+USC_45_ACP_Replica:
+  name: "USC .45 ACP Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 97,742
+  rpm: 420
+  mag: 20
+
+Achilles:
+  name: "Achilles"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 97,742
+  rpm: 420
+  mag: 20
+
+Resolute_Mk47:
+  name: "Resolute Mk47"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 124,901
+  rpm: 300
+  mag: 30
+
+Harmony:
+  name: "Harmony"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 124,901
+  rpm: 300
+  mag: 30
+
+1886:
+  name: "1886"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Rifle"
+  damage: 386,988
+  rpm: 100
+  mag: 8
+
+The_Virginian:
+  name: "The Virginian"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Rifle"
+  damage: 386,988
+  rpm: 100
+  mag: 8
+
+Diamondback:
+  name: "Diamondback"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Rifle"
+  damage: 386,988
+  rpm: 100
+  mag: 8
+
+SOCOM_Mk20_SSR:
+  name: "SOCOM Mk20 SSR"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+SOCOM_Mk20_SSR_Replica:
+  name: "SOCOM Mk20 SSR Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+The_Darkness:
+  name: "The Darkness"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 145,850
+  rpm: 275
+  mag: 20
+
+G28:
+  name: "G28"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+Relic:
+  name: "Relic"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+Sacrum_Imperium:
+  name: "Sacrum Imperium"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 206,425
+  rpm: 180
+  mag: 20
+
+M700_Carbon:
+  name: "M700 Carbon"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+M700_Carbon_Replica:
+  name: "M700 Carbon Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+M700_Tactical:
+  name: "M700 Tactical"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Model_700:
+  name: "Model 700"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Model_700_Replica:
+  name: "Model 700 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Brutus:
+  name: "Brutus"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Ekims_Long_Stick:
+  name: "Ekim's Long Stick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 441,569
+  rpm: 55
+  mag: 7
+
+Shroud:
+  name: "Shroud"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 412,516
+  rpm: 55
+  mag: 7
+
+Paratrooper_SVD:
+  name: "Paratrooper SVD"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Surplus_SVD:
+  name: "Surplus SVD"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Commando:
+  name: "Commando"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Handbasket:
+  name: "Handbasket"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 386,988
+  rpm: 60
+  mag: 10
+
+Dread_Edict:
+  name: "Dread Edict"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 156,662
+  rpm: 260
+  mag: 10
+
+Covert_SRS:
+  name: "Covert SRS"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+SRS_A1:
+  name: "SRS A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+SRS_A1_Replica:
+  name: "SRS A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Pinprick:
+  name: "Pinprick"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Mantis:
+  name: "Mantis"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 7
+
+Classic_M44_Carbine:
+  name: "Classic M44 Carbine"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+Classic_M44_Carbine_Replica:
+  name: "Classic M44 Carbine Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+Hunting_M44:
+  name: "Hunting M44"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 428,664
+  rpm: 55
+  mag: 5
+
+Custom_M44:
+  name: "Custom M44"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 417,692
+  rpm: 55
+  mag: 5
+
+Instigator:
+  name: "Instigator"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 417,692
+  rpm: 55
+  mag: 5
+
+Oh_Carol:
+  name: "Oh Carol"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+The_White_Death:
+  name: "The White Death"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 433,563
+  rpm: 55
+  mag: 5
+
+SR_1:
+  name: "SR-1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+SR_1_Replica:
+  name: "SR-1 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Adrestia:
+  name: "Adrestia"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Designated_Hitter:
+  name: "Designated Hitter"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 409,357
+  rpm: 60
+  mag: 5
+
+Tactical_308:
+  name: "Tactical .308"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 90
+  mag: 7
+
+Scalpel:
+  name: "Scalpel"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 90
+  mag: 7
+
+Nemesis:
+  name: "Nemesis"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Marksman Rifle"
+  damage: 403,809
+  rpm: 50
+  mag: 5
+
+93R:
+  name: "93R"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 52,977
+  rpm: 700
+  mag: 20
+
+Sharpshooters_93R:
+  name: "Sharpshooter's 93R"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 52,977
+  rpm: 700
+  mag: 20
+
+Tempest:
+  name: "Tempest"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Pistol"
+  damage: 62,714
+  rpm: 700
+  mag: 30
+
+D50:
+  name: "D50"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 189,171
+  rpm: 200
+  mag: 8
+
+Survivalist_D50:
+  name: "Survivalist D50"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 189,171
+  rpm: 200
+  mag: 8
+
+Liberty:
+  name: "Liberty"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Pistol"
+  damage: 189,171
+  rpm: 230
+  mag: 8
+
+M1911:
+  name: "M1911"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 129,884
+  rpm: 310
+  mag: 7
+
+M45A1:
+  name: "M45A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 117,435
+  rpm: 310
+  mag: 7
+
+Tactical_M1911:
+  name: "Tactical M1911"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 117,435
+  rpm: 310
+  mag: 7
+
+Tactical_M1911_Replica:
+  name: "Tactical M1911 Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 117,435
+  rpm: 310
+  mag: 7
+
+Quickstep:
+  name: "Quickstep"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 117,435
+  rpm: 310
+  mag: 7
+
+Mozambique_Special:
+  name: "Mozambique Special"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 117,435
+  rpm: 310
+  mag: 7
+
+Maxim_9:
+  name: "Maxim 9"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 125,385
+  rpm: 280
+  mag: 17
+
+Military_M9:
+  name: "Military M9"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 102,584
+  rpm: 350
+  mag: 15
+
+Military_M9_Replica:
+  name: "Military M9"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 102,584
+  rpm: 350
+  mag: 15
+
+Officers_M9_A1:
+  name: "Officer's M9 A1"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 95,697
+  rpm: 350
+  mag: 15
+
+Mosquito:
+  name: "Mosquito"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Pistol"
+  damage: 102,584
+  rpm: 350
+  mag: 15
+
+P320_X_Compact:
+  name: "P320 X Compact"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 87,522
+  rpm: 380
+  mag: 17
+
+Custom_PF45:
+  name: "Custom PF45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 93,962
+  rpm: 370
+  mag: 10
+
+First_Wave_PF45:
+  name: "First Wave PF45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 100,727
+  rpm: 370
+  mag: 10
+
+Lightning_Rod:
+  name: "Lightning Rod"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 93,962
+  rpm: 350
+  mag: 10
+
+Busy_Little_Bee:
+  name: "Busy Little Bee"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Pistol"
+  damage: 93,962
+  rpm: 400
+  mag: 10
+
+Px4_Storm_Type_F:
+  name: "Px4 Storm Type F"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 91,692
+  rpm: 380
+  mag: 14
+
+Px4_Storm_Type_T:
+  name: "Px4 Storm Type T"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 91,692
+  rpm: 380
+  mag: 14
+
+Px4_Storm_Type_T_Replica:
+  name: "Px4 Storm Type T Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 91,692
+  rpm: 380
+  mag: 14
+
+Diceros:
+  name: "Diceros"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 204,803
+  rpm: 180
+  mag: 6
+
+Diceros_Replica:
+  name: "Diceros Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 204,803
+  rpm: 180
+  mag: 6
+
+Snubnosed_Diceros:
+  name: "Snubnosed Diceros"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 211,295
+  rpm: 180
+  mag: 6
+
+Diceros_Special:
+  name: "Diceros Special"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 198,305
+  rpm: 180
+  mag: 6
+
+Whiplash:
+  name: "Whiplash"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 198,305
+  rpm: 180
+  mag: 6
+
+586_Magnum:
+  name: "586 Magnum"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 233,278
+  rpm: 180
+  mag: 6
+
+Police_686_Magnum:
+  name: "Police 686 Magnum"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 233,278
+  rpm: 180
+  mag: 6
+
+Police_686_Magnum_Replica:
+  name: "Police 686 Magnum Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 233,278
+  rpm: 180
+  mag: 6
+
+Orbit:
+  name: "Orbit"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 233,278
+  rpm: 180
+  mag: 6
+
+Prophet:
+  name: "Prophet"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 233,278
+  rpm: 180
+  mag: 6
+
+The_Harvest:
+  name: "The Harvest"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 256,610
+  rpm: 149
+  mag: 6
+
+Regulus:
+  name: "Regulus"
+  class: "WEAPON"
+  rarity: "Exotic"
+  type: "Pistol"
+  damage: 282,072
+  rpm: 180
+  mag: 6
+
+X_45:
+  name: "X-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 88,321
+  rpm: 400
+  mag: 15
+
+X_45_Tactical:
+  name: "X-45 Tactical"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 88,321
+  rpm: 400
+  mag: 15
+
+X_45_Tactical_Replica:
+  name: "X-45 Tactical Replica"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 88,321
+  rpm: 400
+  mag: 15
+
+Kard_45:
+  name: "Kard-45"
+  class: "WEAPON"
+  rarity: "HighEnd"
+  type: "Pistol"
+  damage: 114,267
+  rpm: 310
+  mag: 10
+
+TDI_Kard_Custom:
+  name: "TDI \"Kard\" Custom"
+  class: "WEAPON"
+  rarity: "HighEndNamed"
+  type: "Pistol"
+  damage: 114,267
+  rpm: 310
+  mag: 10
+
+# ----------------------------------------------------------------- GEAR
+
+Battery_Pack:
+  name: "Battery Pack"
+  class: "GEAR"
+  rarity: "HighEndNamed"
+  manufacturer: "Empress International"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+
+Biohazard_Mask:
+  name: "Biohazard Mask"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Eclipse Protocol"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "10.6% Skill Haste", false]
+
+Chargers_Kneepads:
+  name: "Charger's Kneepads"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Breaking Point"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["yellow", "10.9% Weapon Damage", false]
+  coreattr2: ["yellow", "6.5% Headshot Damage", false]
+
+Chemar_Backpack:
+  name: "Chemar Backpack"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Golan Gear Ltd"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["blue", "116,500 Armor", false]
+  coreattr2: ["blue", "3,937 HP/s Armor Regen", false]
+  2ndattr1: ["red", "10.2% Critical Hit Damage", false]
+  talent: "Safeguard"
+
+Diamondback_Gloves:
+  name: "Diamondback Gloves"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Gila Guard"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["yellow", "117,983 Armor", false]
+  coreattr2: ["yellow", "11% Skill Haste", false]
+  2ndattr1: ["yellow", "7% Skill Damage", false]
+
+Escorter_Combat_Harness:
+  name: "Escorter Combat Harness"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Sokolov Concern"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "10.7% Weapon Damage", false]
+  coreattr2: ["yellow", "4.5% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "16.1% Repair Skills", false]
+  talent: "Entrench"
+
+Fodral_Holster:
+  name: "Fodral Holster"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Fenris Group AB"
+  type: "Holster"
+  armor: "112k"
+  coreattr1: ["yellow", "11.7% Weapon Damage", false]
+  coreattr2: ["yellow", "10% Critical Hit Damage", false]
+  2ndattr1: ["yellow", "7.1% Skill Damage", false]
+
+Gila_Inventory_System:
+  name: "Gila Inventory System"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Gila Guard"
+  type: "Backpack"
+  armor: "131k"
+
+Harnesk_Armor:
+  name: "Harnesk Armor"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Fenris Group AB"
+  type: "Chest"
+  armor: "158k"
+
+Hotshot_Vest:
+  name: "Hotshot Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Eclipse Protocol"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "13.4% Weapon Damage", false]
+  coreattr2: ["yellow", "6% Weapon Handling", false]
+  talent: "Daring"
+
+Lightweight_Ballistic_Vest:
+  name: "Lightweight Ballistic Vest"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Sokolov Concern"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "11.1% Weapon Damage", false]
+  coreattr2: ["yellow", "9.8% Critical Hit Damage", false]
+  2ndattr1: ["yellow", "8% Explosive Resistance", false]
+  talent: "Explosive Delivery"
+
+Liquid_Engineer:
+  name: "Liquid Engineer"
+  class: "GEAR"
+  rarity: "HighEndNamed"
+  manufacturer: "Belstone Armory"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "126,432 Armor", false]
+  coreattr2: ["yellow", "4.6% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "10.3% Critical Hit Damage", false]
+  talent: "Perfect Bloodsucker"
+
+Revamped_Vest:
+  name: "Revamped Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Refactor"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "5% Critical Hit Chance", false]
+  talent: "Increased Interest"
+
+Shadow_Boxing_Gloves:
+  name: "Shadow Boxing Gloves"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Core Strength"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["yellow", "122,226 Armor", false]
+  coreattr2: ["yellow", "7.6% Headshot Damage", false]
+
+Tania_Silent_Vest:
+  name: "Tania Silent Vest"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Aces & Eights"
+  type: "Chest"
+  armor: "158k"
+  coreattr1: ["yellow", "10.2% Weapon Damage", false]
+  coreattr2: ["yellow", "4.3% Critical Hit Chance", false]
+  talent: "No Limit"
+
+Trapezius_Go_Bag:
+  name: "Trapezius Go-bag"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Wyvern Wear"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "16% Repair Skills", false]
+  2ndattr1: ["yellow", "15,493 Health", false]
+  talent: "Leadership"
+
+Unfazed_Mask:
+  name: "Unfazed Mask"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Unit Alloys"
+  type: "Mask"
+  armor: "80k"
+  coreattr1: ["yellow", "11.8% Weapon Damage", false]
+  coreattr2: ["yellow", "4.9% Critical Hit Chance", false]
+  2ndattr1: ["yellow", "17.1% Repair Skills", false]
+
+Wear_Anywhere_Protectors:
+  name: "Wear-anywhere Protectors"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Empress International"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["yellow", "1 Skill Tier", false]
+  coreattr2: ["yellow", "7.6% Skill Damage", false]
+  2ndattr1: ["yellow", "8% Status Effects", false]
+
+Ziba_Low_Profile_Pack:
+  name: "Ziba Low Profile Pack"
+  class: "GEAR"
+  rarity: "GearSet"
+  manufacturer: "Aces & Eights"
+  type: "Backpack"
+  armor: "131k"
+  coreattr1: ["yellow", "10.9% Weapon Damage", false]
+  coreattr2: ["yellow", "10.2% Skill Haste", false]
+  talent: "Ace in the Sleeve"
+
+# ----------------------------------------------------------------- MODS
+
+Additional_Ordnance:
+  name: "Additional Ordnance"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Drone"
+
+Alignment_Valve:
+  name: "Alignment Valve"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Firefly"
+
+Defensive_Protocol_Stamina:
+  name: "Defensive Protocol: Stamina"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Defensive"
+
+Improved_Sticky_Launcher:
+  name: "Improved_Sticky_Launcher"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Chem Launcher"
+
+Offensive_Protocol_Critical:
+  name: "Offensive Protocol: Critical"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Offensive"
+
+Spare_Parts:
+  name: "Spare Parts"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Turret"
+
+# ----------------------------------------------------------------- EOF

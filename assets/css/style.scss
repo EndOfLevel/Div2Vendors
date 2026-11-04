@@ -1,0 +1,136 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header {
+  display:none;
+}
+
+div.wrapper {
+  max-width:none;
+  width:90vw;
+
+  section {
+    max-width:none;
+    margin-top:10px;
+
+    div#title {
+      margin-top:0px;
+      margin-bottom:10px;
+    }
+
+    h2 {
+      margin-top:50px;
+      margin-bottom:50px;
+      text-align:center;
+    }
+
+    articles {
+      display:block;
+      width:100%;
+      text-align:center;
+
+      article {
+        margin-bottom:50px;
+        margin-right:25px;
+        width:300px;
+        display:inline-block;
+        vertical-align: top;
+
+        table {
+          width:100%;
+          border:1px solid #414858;
+          border-collapse:collapse;
+          background-color:#2b303a;
+          margin-bottom:0px;
+
+          tr {
+            display: flex;
+            width: 100%;
+
+            th,td {
+              flex: 1;
+              min-width: 0;
+              box-sizing: border-box;
+              border:1px solid #414858;
+              padding:10px 10px;
+              text-align:center;
+
+              abbr {
+                display:block;
+                font-size:0.8em;
+                color: #b1aff3;
+              }
+
+              span.clsAttr {
+                display:block;
+              }
+            }
+          }
+
+          th {
+            background-color:#000;
+            color:#fff;
+            text-align:center;
+            font-size:1.2em;
+            padding:15px 10px;
+
+            &.Prototype {
+              background-color:rgb(74, 7, 77);
+              color:#ffffff;
+            }
+
+            &.Exotic {
+              background-color:rgb(131, 9, 9);
+              color:#ffffff;
+            }
+
+            &.GearSet {
+              background-color:#17C884;
+              color:#ffffff;
+            }
+
+            &.HighEndNamed {
+              background-color:#FFAF10;
+              color:#fff900;
+            }
+
+            &.HighEnd {
+              background-color:#FFAF10;
+              color:#ffffff;
+            }
+
+            &.Superior {
+              background-color:#B14298;
+              color:#ffffff;
+            }
+
+            &.Specialized {
+              background-color:#5080FF;
+              color:#ffffff;
+            }
+
+            &.Standard {
+              background-color:#73C32C;
+              color:#ffffff;
+            }
+          }
+
+          &.WEAPON {
+            tr:nth-child(3) td {
+              width:33%;
+            }
+          }
+
+          &.GEAR {
+            tr:nth-child(3) td {
+              width:50%;
+            }
+          }
+        }
+      }
+
+    }
+  }
+}
