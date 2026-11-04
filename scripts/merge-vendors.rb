@@ -12,4 +12,5 @@ Dir.glob("_data/vendors_split/*.yml").sort.each do |file|
   merged.merge!(vendors)
 end
 
+FileUtils.mkdir_p("_data")
 File.write("_data/vendors.yml", YAML.dump(merged))
