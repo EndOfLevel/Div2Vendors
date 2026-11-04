@@ -1,16 +1,19 @@
 require "yaml"
 require "fileutils"
 
-merged = {}
+files = Dir.glob("_data/vendors_split/*.yml").sort
+abort "No vendor files found in _data/vendors_split/" if files.empty?
 
-Dir.glob("_data/items_split/*.yml").sort.each do |file|
-  items = YAML.load_file(file) || {}
+items = []
 
-  duplicate_ids = merged.keys & items.keys
-  abort "Duplicate item IDs in #{file}: #{duplicate_ids.join(', ')}" unless duplicate_ids.empty?
+files.each do |file|
+  data = YAML.load_file(file)
+  abort "#{file} must contain a YAML list" unless data.is_a?(Array)
 
-  merged.merge!(items)
+  items.concat(data)
+  puts "Loaded #{data.size} items from #{file}"
 end
 
 FileUtils.mkdir_p("_data")
-File.write("_data/items.yml", YAML.dump(merged))
+File.write("_data/items.yml", YAML.dump(items))
+puts "Wrote #{items.size} items to _data/items.yml"
