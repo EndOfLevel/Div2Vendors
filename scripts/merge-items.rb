@@ -3,7 +3,7 @@ require "fileutils"
 
 merged = {}
 
-Dir.glob("_data/items/*.yml").sort.each do |file|
+Dir.glob("_data/items_split/*.yml").sort.each do |file|
   items = YAML.load_file(file) || {}
 
   duplicate_ids = merged.keys & items.keys
