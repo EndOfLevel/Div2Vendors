@@ -1,69 +1,162 @@
+# ----------------------------------------------------------------- WASHINGTON : WHITE HOUSE
+
 - name: "Washington : White House"
   inventory:
-    - item_id: "Battery_Pack"
-      price: "15,528 Credits"
-      coreattr2: ["yellow", "7% Skill Damage", false]
-      2ndattr1: ["yellow", "8.3% Status Effects", false]
-      talent: "Strained"
+    - item_id: "Test_Subject"
+      price: "15,545 Credits"
+      damage: "90.75k"
+      coreattr1: ["red", "11.5% Assault Rifle Damage", false]
+      coreattr2: ["red", "14.5% Health Damage", false]
+      2ndattr1: ["red", "12.2% Swap Speed", false]
+      talent: "Perfectly In Sync"
 
-    - item_id: "Police_T821"
-      price: "8,484 Credits"
-      coreattr1: ["red", "10.9% SMG Damage", false]
-      coreattr2: ["red", "15% Critical Hit Chance", false]
-      2ndattr1: ["red", "7.5% Health Damage", false]
-      talent: "Steady Handed"
+    - item_id: "MP5_ST"
+      price: "8,481 Credits"
+      damage: "82.27k"
+      coreattr1: ["red", "7.6% SMG Damage", false]
+      coreattr2: ["red", "14.5% Critical Hit Chance", false]
+      2ndattr1: ["red", "6% Damage to Armor", true]
+      talent: "Thunder Strike"
 
-    - item_id: "FAL"
-      price: "8,478 Credits"
-      coreattr1: ["red", "11.7% Assault Rifle Damage", false]
-      coreattr2: ["red", "16% Health Damage", false]
-      2ndattr1: ["red", "7.3% Reload Speed", false]
-      talent: "Killer"
+    - item_id: "AK_M"
+      price: "8,475 Credits"
+      damage: "106.05k"
+      coreattr1: ["red", "11.8% Assault Rifle Damage", false]
+      coreattr2: ["red", "14% Health Damage", false]
+      2ndattr1: ["red", "8.2% Reload Speed", false]
+      talent: "Close & Personal"
 
     - item_id: "First_Wave_PF45"
-      price: "5,644 Credits"
-      coreattr1: ["red", "6.5% Pistol Damage", false]
-      coreattr2: ["red", "10% Headshot Damage", true]
-      talent: "Lucky Shot"
+      price: "5,649 Credits"
+      damage: "159.15k"
+      coreattr1: ["red", "11.9% Pistol Damage", false]
+      coreattr2: ["red", "7.5% Magazine Size", false]
+      talent: "Eyeless"
 
-    - item_id: "Chemar_Backpack"
-      price: "5,644 Credits"
-      coreattr1: ["yellow", "112,237 Armor", false]
-      coreattr2: ["yellow", "8.9% Hazard Protection", false]
-      2ndattr1: ["yellow", "15.4% Repair Skills", false]
-      talent: "Safeguard"
+    - item_id: "Maree_Range_Pack"
+      price: "6,785 Credits"
+      coreattr1: ["red", "10.7% Weapon Damage", false]
+      2ndattr1: ["yellow", "8.6% Status Effects", false]
+      2ndattr2: ["blue", "8.6% Hazard Protection", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+      talent: "Vigilance"
 
-    - item_id: "Harnesk_Armor"
-      price: "6,220 Credits"
-      coreattr1: ["red", "6.5% Weapon Damage", false]
-      coreattr2: ["blue", "8.5% Hazard Protection", false]
-      2ndattr1: ["blue", "16,153 Health", false]
-      talent: "Empathic Resolve"
+    - item_id: "Tatami_Cuirass"
+      price: "6,211 Credits"
+      coreattr1: ["yellow", "+1 Skill Core", false]
+      2ndattr1: ["yellow", "16.3% Repair Skills", false]
+      2ndattr2: ["blue", "3,727 HP/s Armor Regen", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+      talent: "Tamper Proof"
 
-    - item_id: "Offensive_Protocol_Critical"
-      price: "4,523 Credits"
-      attr: "7.5% Headshot Damage"
+    - item_id: "Offensive_System_Firearms"
+      price: "4,517 Credits"
+      attr: "10% Critical Hit Damage"
 
-    - item_id: "Additional_Ordnance"
-      price: "4,523 Credits"
-      attr: "5% Damage Reduction"
+    - item_id: "Hollow_Point_Bullets"
+      price: "4,524 Credits"
+      attr: "6.5% Armor Repair"
 
-    - item_id: "Spare_Parts"
+    - item_id: "SHD_CPU_V2"
+      price: "4,520 Credits"
+      attr: "5.9% Duration"
+
+    - item_id: "Improved_Sticky_Payload"
       price: "4,522 Credits"
-      attr: "6% Duration"
+      attr: "4% Burn Duration"
 
-    - item_id: "Improved_Sticky_Launcher"
-      price: "4,521 Credits"
-      attr: "6.4% Duration"
+# ----------------------------------------------------------------- WASHINGTON : CLAN VENDOR
 
 - name: "Washington : Clan Vendor"
   inventory:
-    - item_id: "ACR_E"
-      price: "1,500 Credits"
-      coreattr1: ["red", "15% Assault Rifle Damage", true]
-      coreattr2: ["red", "10% Health", false]
-      2ndattr1: ["red", "3.7% Rate of Fire", false]
-      talent: "Strained"
+    - item_id: "Robin"
+      price: "15,567 Credits"
+      coreattr1: ["red", "11.4% Weapon Damage", false]
+      2ndattr1: ["red", "5.1% Critical Hit Chance", false]
+      2ndattr2: ["yellow", "16.7% Repair Skills", false]
+      talent: "Perfect Gunsligner"
+
+    - item_id: "Nina_Prone_Pads"
+      price: "5,098 Credits"
+      coreattr1: ["red", "13.4% Weapon Damage", false]
+      2ndattr1: ["red", "10.1% Critical Hit Damage", false]
+
+    - item_id: "Grave_Holster"
+      price: "5,666 Credits"
+      coreattr1: ["red", "10.1% Weapon Damage", false]
+      2ndattr1: ["red", "5.8% Critical Hit Chance", false]
+
+    - item_id: "Rigger_Dust_Mask"
+      price: "5,095 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "10.6% Skill Haste", false]
+
+    - item_id: "M870_Express"
+      price: "8,490 Credits"
+      damage: "1.19M"
+      coreattr1: ["red", "10.6% Shotgun Damage", false]
+      coreattr2: ["red", "11% Damage to Armor", false]
+      2ndattr1: ["red", "18% Optimal Range", false]
+      talent: "Vindictive"
+
+    - item_id: "Prophet"
+      price: "15,581 Credits"
+      damage: "1.19M"
+      coreattr1: ["red", "11.9% Pistol Damage", false]
+      2ndattr1: ["red", "14.2% Rate of Fire", false]
+      talent: "Perfect Determined"
+
+    - item_id: "Lucznik_Gloves"
+      price: "5,095 Credits"
+      coreattr1: ["red", "12.4% Weapon Damage", false]
+      2ndattr1: ["red", "4.8% Critical Hit Chance", false]
+      2ndattr2: ["blue", "3,873 HP/s Armor Regen", false]
+
+    - item_id: "Olympic_Gloves"
+      price: "5,661 Credits"
+      coreattr1: ["blue", "132,656 Armor", false]
+      2ndattr1: ["blue", "4,137 HP/s Armor Regen", false]
+      2ndattr2: ["yellow", "8.8% Status Effects", false]
+
+    - item_id: "Black_Market_AK_M"
+      price: "8,501 Credits"
+      damage: "101.52k"
+      coreattr1: ["red", "11% Assault Rifle Damage", false]
+      coreattr2: ["red", "20.5% Health Damage", false]
+      2ndattr1: ["red", "8% DMG to target out of cover", false]
+      talent: "Steady Handed"
+
+    - item_id: "Duban_Fitted_Hauler"
+      price: "15,567 Credits"
+      coreattr1: ["yellow", "17.3 Repair Skills", false]
+      coreattr2: ["blue", "16,227 Health", false]
+      coreattr3: ["grey", "Empty Gear Mod Slot", false]
+      talent: "Vigilance"
+
+    - item_id: "Penumbra_Mask"
+      price: "5,098 Credits"
+      coreattr1: ["red", "11.1% Weapon Damage", false]
+      2ndattr1: ["red", "7.5% Weapon Handling", false]
+      2ndattr2: ["red", "4.6% Critical Hit Chance", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+    - item_id: "Offensive_System_Dexterity"
+      price: "4,527 Credits"
+      attr: "10.4% Critical Hit Damage"
+
+    - item_id: "Utility_System_Electronics"
+      price: "4,533 Credits"
+      attr: "17.5% Repair Skills"
+
+    - item_id: "Micropulse_Frequency"
+      price: "4,527 Credits"
+      attr: "5.1% Damage Reduction"
+
+    - item_id: "Vac_Pack"
+      price: "4,525 Credits"
+      attr: "6.1% Damage"
+
+# ----------------------------------------------------------------- WASHINGTON : THEATER SETTLEMENT
 
 - name: "Washington : Theater Settlement"
   inventory:
@@ -74,6 +167,8 @@
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
 
+# ----------------------------------------------------------------- WASHINGTON : CASTLE SETTLEMENT
+
 - name: "Washington : Castle Settlement"
   inventory:
     - item_id: "ACR_E"
@@ -83,14 +178,65 @@
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
 
+# ----------------------------------------------------------------- WASHINGTON : CAMPUS SETTLEMENT
+
 - name: "Washington : Campus Settlement"
   inventory:
-    - item_id: "ACR_E"
-      price: "1,500 Credits"
-      coreattr1: ["red", "15% Assault Rifle Damage", true]
-      coreattr2: ["red", "10% Health", false]
-      2ndattr1: ["red", "3.7% Rate of Fire", false]
-      talent: "Strained"
+    - item_id: "Quiet_Roar"
+      price: "15,524 Credits"
+      coreattr1: ["red", "8.1% LMG Damage", false]
+      coreattr2: ["red", "7% DMG to target out of cover", false]
+      2ndattr1: ["red", "4.9% Rate of Fire", false]
+      talent: "Perfect Overwhelm"
+
+    - item_id: "Surplus_SVD"
+      price: "8,482 Credits"
+      coreattr1: ["red", "11.1% Marksman Rifle Damage", false]
+      coreattr2: ["red", "93% Headshot Damage", false]
+      2ndattr1: ["red", "12.5% Swap Speed", true]
+      talent: "Vindictive"
+
+    - item_id: "Stoner_LAMG"
+      price: "8,473 Credits"
+      coreattr1: ["red", "10% LMG Damage", false]
+      coreattr2: ["red", "9% DMG to target out of cover", false]
+      2ndattr1: ["red", "9% Headshot Damage", false]
+      talent: "Precision Strike"
+
+    - item_id: "Svalinn_Heavy_Breather"
+      price: "5,081 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "9.9% Skill Haste", false]
+      2ndattr2: ["yellow", "7% Skill Damage", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
+
+    - item_id: "Rugged_Gun_Guard"
+      price: "5,654 Credits"
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "9.7% Skill Haste", false]
+      2ndattr2: ["red", "5.1% Critical Hit Chance", false]
+
+    - item_id: "Utility_System_Assist"
+      price: "4,517 Credits"
+      attr: "8.3% Skill Duration"
+
+    - item_id: "Pharmacokinetic_Enhancer"
+      price: "4,520 Credits"
+      attr: "5.9% Skill Haste"
+
+    - item_id: "Internal_Storage"
+      price: "4,524 Credits"
+      attr: "4% Range"
+
+    - item_id: "Unstable_Oscillator"
+      price: "4,518 Credits"
+      attr: "6.3% Cone Size"
+
+    - item_id: "Trap_Electronics_Upgrade"
+      price: "4,516 Credits"
+      attr: "5.7% Shock Radius"
+
+# ----------------------------------------------------------------- WASHINGTON : DARK ZONE SOUTH VENDOR
 
 - name: "Washington : Dark Zone South Vendor"
   inventory:
@@ -101,7 +247,9 @@
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
 
-- name: "Washington : Dark Zone South West"
+# ----------------------------------------------------------------- WASHINGTON : DARK ZONE WEST VENDOR
+
+- name: "Washington : Dark Zone West Vendor"
   inventory:
     - item_id: "ACR_E"
       price: "1,500 Credits"
@@ -110,7 +258,9 @@
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
 
-- name: "Washington : Dark Zone South East"
+# ----------------------------------------------------------------- WASHINGTON : DARK ZONE EAST VENDOR
+
+- name: "Washington : Dark Zone East Vendor"
   inventory:
     - item_id: "ACR_E"
       price: "1,500 Credits"
@@ -118,6 +268,8 @@
       coreattr2: ["red", "10% Health", false]
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
+
+# ----------------------------------------------------------------- WASHINGTON : CASSIE
 
 - name: "Washington : Cassie"
   inventory:
@@ -127,6 +279,8 @@
       coreattr2: ["red", "10% Health", false]
       2ndattr1: ["red", "3.7% Rate of Fire", false]
       talent: "Strained"
+
+# ----------------------------------------------------------------- WASHINGTON : BENITEZ
 
 - name: "Washington : Benitez"
   inventory:
