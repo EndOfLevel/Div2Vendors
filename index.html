@@ -48,12 +48,14 @@ layout: default
               </td></tr>
               {% if entry.talent or item.talent %}
                 <tr><td>
-                  {% assign talent_name = entry.talent | default: item.talent %}
-                  {% assign talent_data = site.data.talents[talent_name] %}
-                  {% if talent_data and talent_data.icon %}
-                    <img src="assets/images/{{ talent_data.icon }}" alt="{{ talent_name }}" />
-                  {% endif %}
-                  {{ entry.talent | default: item.talent }}
+                  <span class="clsTalent">
+                    {% assign talent_name = entry.talent | default: item.talent %}
+                    {% assign talent_data = site.data.talents[talent_name] %}
+                    {% if talent_data and talent_data.icon %}
+                      <img src="assets/images/{{ talent_data.icon }}" alt="{{ talent_name }}" />
+                    {% endif %}
+                    {{ entry.talent | default: item.talent }}
+                  </span>
                 </td></tr>
               {% endif %}
             {% when 'GEAR' %}
@@ -93,12 +95,14 @@ layout: default
               </td></tr>
               {% if entry.talent or item.talent %}
                 <tr><td>
-                  {% assign talent_name = entry.talent | default: item.talent %}
-                  {% assign talent_data = site.data.talents[talent_name] %}
-                  {% if talent_data and talent_data.icon %}
-                    <img src="assets/images/{{ talent_data.icon }}" alt="{{ talent_name }}" />
-                  {% endif %}
-                  {{ entry.talent | default: item.talent }}
+                  <span class="clsTalent">
+                    {% assign talent_name = entry.talent | default: item.talent %}
+                    {% assign talent_data = site.data.talents[talent_name] %}
+                    {% if talent_data and talent_data.icon %}
+                      <img src="assets/images/{{ talent_data.icon }}" alt="{{ talent_name }}" />
+                    {% endif %}
+                    {{ entry.talent | default: item.talent }}
+                  </span>
                 </td></tr>
               {% endif %}
             {% when 'MOD' %}
