@@ -2,11 +2,60 @@
 
 - name: "Washington : Theater Settlement"
   inventory:
-    - item_id: "ACR_E"
-      price: "1,500 Credits"
-      coreattr1: ["red", "15% Assault Rifle Damage", true]
-      coreattr2: ["red", "10% Health", false]
-      2ndattr1: ["red", "3.7% Rate of Fire", false]
-      talent: "Strained"
+    - item_id: "The_Mop"
+      price: "15,546 Credits"
+      damage: "697.29k"
+      coreattr1: ["red", "11.7% Shotgun Damage", false]
+      coreattr2: ["red", "11% Damage to Armour", false]
+      2ndattr1: ["red", "10% Armor on Kill", true]
+      talent: "Steady Handed"
+
+    - item_id: "Thorn"
+      price: "15,527 Credits"
+      damage: "1.21M"
+      coreattr1: ["red", "10.4% Shotgun Damage", false]
+      coreattr2: ["red", "12% Damage to Armour", false]
+      2ndattr1: ["red", "4% Critical Hit Damage", false]
+      talent: "Perfect Brazen"
+
+    - item_id: "1886"
+      price: "8,477 Credits"
+      damage: "626.44k"
+      coreattr1: ["red", "10% Rifle Damage", false]
+      coreattr2: ["red", "23% Critical Hit Damage", false]
+      2ndattr1: ["red", "9% Headshot Damage", false]
+      talent: "Ranger"
+
+    - item_id: "Ayal_Gloves"
+      price: "5,646 Credits"
+      coreattr1: ["blue", "116,424 Armor", false]
+      2ndattr1: ["blue", "10% Explosive Resistance", true]
+      2ndattr2: ["yellow", "4.1% Skill Damage", false]
+
+    - item_id: "Dingson_Protection_Pads"
+      price: "6,785 Credits"
+      coreattr1: ["red", "9.9% Weapon Damage", false]
+      2ndattr1: ["red", "Weapon Handling", false]
+      2ndattr2: ["blue", "15.4% Repair Skills", false]
+
+    - item_id: "Defensive_Protocol_Stamina"
+      price: "4,520 Credits"
+      attr: "11% Protection from Elites"
+
+    - item_id: "RDX_Pellet_Payload"
+      price: "4,519 Credits"
+      attr: "5.9% Healing"
+
+    - item_id: "Smart_UHMWPE_Lexicon"
+      price: "4,519 Credits"
+      attr: "4.2% Holstered Regeneration"
+
+    - item_id: "Vac_Pack"
+      price: "4,516 Credits"
+      attr: "5.7% Blind Effect Duration"
+
+    - item_id: "Decoy_Housing_Shell"
+      price: "4,516 Credits"
+      attr: "5.5% Health"
 
 # ----------------------------------------------------------------- EOF

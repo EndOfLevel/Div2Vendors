@@ -1,5 +1,16 @@
 # ----------------------------------------------------------------- GEAR : GLOVES
 
+Ayal_Gloves:
+  name: "Ayal Gloves"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Golan Gear Ltd"
+  type: "Gloves"
+  armor: "80k"
+  coreattr1: ["blue", "116,424 Armor", false]
+  2ndattr1: ["blue", "10% Explosive Resistance", true]
+  2ndattr2: ["yellow", "4.1% Skill Damage", false]
+
 Diamondback_Gloves:
   name: "Diamondback Gloves"
   class: "GEAR"

@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------- SKILL MODS : SEEKER
+
+RDX_Pellet_Payload:
+  name: "RDX Pellet Payload"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Seeker"
+  attr: "5.9% Healing"
+
+# ----------------------------------------------------------------- EOF

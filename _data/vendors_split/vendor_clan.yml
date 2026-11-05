@@ -7,6 +7,7 @@
       coreattr1: ["red", "11.4% Weapon Damage", false]
       2ndattr1: ["red", "5.1% Critical Hit Chance", false]
       2ndattr2: ["yellow", "16.7% Repair Skills", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
       talent: "Perfect Gunslinger"
 
     - item_id: "Nina_Prone_Pads"
@@ -23,6 +24,7 @@
       price: "5,095 Credits"
       coreattr1: ["yellow", "1 Skill Tier", false]
       2ndattr1: ["yellow", "10.6% Skill Haste", false]
+      2ndattr2: ["grey", "Empty Gear Mod Slot", false]
 
     - item_id: "M870_Express"
       price: "8,490 Credits"
@@ -61,9 +63,10 @@
 
     - item_id: "Duban_Fitted_Hauler"
       price: "15,567 Credits"
-      coreattr1: ["yellow", "17.3 Repair Skills", false]
-      coreattr2: ["blue", "16,227 Health", false]
-      coreattr3: ["grey", "Empty Gear Mod Slot", false]
+      coreattr1: ["yellow", "1 Skill Tier", false]
+      2ndattr1: ["yellow", "17.3% Repair Skills", false]
+      2ndattr2: ["blue", "16,227 Health", false]
+      2ndattr3: ["grey", "Empty Gear Mod Slot", false]
       talent: "Vigilance"
 
     - item_id: "Penumbra_Mask"

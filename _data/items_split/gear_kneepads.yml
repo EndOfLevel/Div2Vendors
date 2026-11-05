@@ -10,6 +10,17 @@ Chargers_Kneepads:
   coreattr1: ["yellow", "10.9% Weapon Damage", false]
   coreattr2: ["yellow", "6.5% Headshot Damage", false]
 
+Dingson_Protection_Pads:
+  name: "Dingson Protection Pads"
+  class: "GEAR"
+  rarity: "HighEnd"
+  manufacturer: "Overlord Armaments"
+  type: "Kneepads"
+  armor: "99k"
+  coreattr1: ["red", "9.9% Weapon Damage", false]
+  2ndattr1: ["red", "Weapon Handling", false]
+  2ndattr2: ["blue", "15.4% Repair Skills", false]
+
 Nina_Prone_Pads:
   name: "Nina Prone Pads"
   class: "GEAR"

@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------- SKILL MODS : DECOY
+
+Decoy_Housing_Shell:
+  name: "Decoy Housing Shell"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Decoy"
+  attr: "5.5% Health"
+
+# ----------------------------------------------------------------- EOF

@@ -1,0 +1,10 @@
+# ----------------------------------------------------------------- SKILL MODS : SHIELD
+
+Smart_UHMWPE_Lexicon:
+  name: "Smart UHMWPE Lexicon"
+  class: "MOD"
+  rarity: "HighEnd"
+  type: "Shield"
+  attr: "4.2% Holstered Regeneration"
+
+# ----------------------------------------------------------------- EOF

@@ -1,9 +1,542 @@
-# ----------------------------------------------------------------- TALENTS
+# ----------------------------------------------------------------- WEAPON TALENTS
+
+Accurate:
+  icon: "talent-accurate.png"
+
+Actum Est:
+  icon: "talent-actumest.png"
+
+Adaptive Instincts:
+  icon: "talent-adaptiveinstincts.png"
+
+Agonizing Bite:
+  icon: "talent-agonizingbite.png"
+
+Allegro:
+  icon: "talent-allegro.png"
+
+Allegro:
+  icon: "talent-allegro.png"
+
+Ardent:
+  icon: "talent-ardent.png"
+
+Behind You:
+  icon: "talent-behindyou.png"
+
+Big Game Hunter:
+  icon: "talent-biggamehunter.png"
+
+Binary Trigger:
+  icon: "talent-binarytrigger.png"
+
+Boomerang:
+  icon: "talent-boomerang.png"
+
+Brazen:
+  icon: "talent-brazen.png"
+
+Breadbasket:
+  icon: "talent-breadbasket.png"
+
+Breathe Free:
+  icon: "talent-breathefree.png"
+
+Bullet Hell:
+  icon: "talent-bullethell.png"
+
+Busy Little Bee:
+  icon: "talent-busylittlebee.png"
+
+Capacitance:
+  icon: "talent-capacitance.png"
+
+Capitulate:
+  icon: "talent-capitulate.png"
+
+Close & Personal:
+  icon: "talent-closepersonal.png"
+
+Determined:
+  icon: "talent-determined.png"
+
+Disruptor Rounds:
+  icon: "talent-disruptorrounds.png"
+
+Distance:
+  icon: "talent-distance.png"
+
+Doctor Home:
+  icon: "talent-doctorhome.png"
+
+Doctor Home:
+  icon: "talent-doctorhome.png"
+
+Eagles Strike:
+  icon: "talent-eaglesstrike.png"
+
+Electromagnetic Accelerator:
+  icon: "talent-electromagneticaccelerator.png"
+
+Extra:
+  icon: "talent-extra.png"
+
+Eyeless:
+  icon: "talent-eyeless.png"
+
+Fast Hands:
+  icon: "talent-fasthands.png"
+
+Finisher:
+  icon: "talent-finisher.png"
+
+First Blood:
+  icon: "talent-firstblood.png"
+
+Flatline:
+  icon: "talent-flatline.png"
+
+Frenzy:
+  icon: "talent-frenzy.png"
+
+Full Stop:
+  icon: "talent-fullstop.png"
+
+Future Perfect:
+  icon: "talent-futureperfect.png"
+
+Geri and Freki:
+  icon: "talent-gerifreki.png"
+
+Hidden Rock:
+  icon: "talent-hiddenrock.png"
+
+Ignited:
+  icon: "talent-ignited.png"
+
+In Plain Sight:
+  icon: "talent-inplainsight.png"
+
+In Sync:
+  icon: "talent-insync.png"
+
+Incessant Chatter:
+  icon: "talent-incessantchatter.png"
+
+Jazz Hands:
+  icon: "talent-jazzhands.png"
+
+Killer:
+  icon: "talent-killer.png"
+
+Liberty or Death:
+  icon: "talent-libertyordeath.png"
+
+Lucky Shot:
+  icon: "talent-luckyshot.png"
+
+Measured:
+  icon: "talent-measured.png"
+
+Mosquito Song:
+  icon: "talent-mosquitosong.png"
+
+Naked:
+  icon: "talent-naked.png"
+
+Near Sighted:
+  icon: "talent-nearsighted.png"
+
+On Empty:
+  icon: "talent-onempty.png"
+
+Optimist:
+  icon: "talent-optimist.png"
+
+Optimized:
+  icon: "talent-optimized.png"
+
+Ortiz Assault Interface:
+  icon: "talent-ortizassaultinterface.png"
+
+Outsider:
+  icon: "talent-outsider.png"
+
+Overflowing:
+  icon: "talent-overflowing.png"
+
+Overwhelm:
+  icon: "talent-overwhelm.png"
+
+Payment in Kind:
+  icon: "talent-paymentinkind.png"
+
+Perpetuation:
+  icon: "talent-perpetuation.png"
+
+Plague of the Outcasts:
+  icon: "talent-plagueoftheoutcasts.png"
+
+Precision Strike:
+  icon: "talent-precisionstrike.png"
+
+Preservation:
+  icon: "talent-preservation.png"
+
+Pressure Point:
+  icon: "talent-pressurepoint.png"
+
+Primer Rounds:
+  icon: "talent-primerrounds.png"
+
+Pummel:
+  icon: "talent-pummel.png"
+
+Pumped Up:
+  icon: "talent-pumpedup.png"
+
+Ranger:
+  icon: "talent-ranger.png"
+
+Reformation:
+  icon: "talent-reformation.png"
+
+Refreshing:
+  icon: "talent-refreshing.png"
+
+Regicide:
+  icon: "talent-regicide.png"
+
+Rifleman:
+  icon: "talent-rifleman.png"
+
+Rule Them All:
+  icon: "talent-rulethemall.png"
+
+Sadist:
+  icon: "talent-sadist.png"
+
+Salvage:
+  icon: "talent-salvage.png"
+
+Sandman:
+  icon: "talent-sandman.png"
+
+Septic Shock:
+  icon: "talent-septicshock.png"
+
+Sledgehammer:
+  icon: "talent-sledgehammer.png"
+
+Spike:
+  icon: "talent-spike.png"
+
+Stabilize:
+  icon: "talent-stabilize.png"
+
+Startling:
+  icon: "talent-startling.png"
+
+Steady Handed:
+  icon: "talent-steadyhanded.png"
+
+Strained:
+  icon: "talent-strained.png"
+
+Swift:
+  icon: "talent-swift.png"
+
+Symbiosis:
+  icon: "talent-symbiosis.png"
+
+Tenacity:
+  icon: "talent-tenacity.png"
+
+The Trap:
+  icon: "talent-thetrap.png"
+
+Twinkling Lights:
+  icon: "talent-twinklinglights.png"
+
+Unhinged:
+  icon: "talent-unhinged.png"
+
+Unnerve:
+  icon: "talent-unnerve.png"
+
+Unwavering:
+  icon: "talent-unwavering.png"
+
+Vindictive:
+  icon: "talent-vindictive.png"
+
+# ----------------------------------------------------------------- GEAR TALENTS
+
+Adrenaline Rush:
+  icon: "talent-adrenalinerush.png"
+
+Perfect Adrenaline Rush:
+  icon: "talent-adrenalinerush.png"
+
+Bloodsucker:
+  icon: "talent-bloodsucker.png"
+
+Perfect Bloodsucker:
+  icon: "talent-bloodsucker.png"
+
+Braced:
+  icon: "talent-braced.png"
+
+Perfect Braced:
+  icon: "talent-braced.png"
+
+Calculated:
+  icon: "talent-calculated.png"
+
+Perfectly Calculated:
+  icon: "talent-calculated.png"
+
+Clutch:
+  icon: "talent-clutch.png"
+
+Perfect Clutch:
+  icon: "talent-clutch.png"
+
+Combined Arms:
+  icon: "talent-combinedarms.png"
+
+Perfect Combined Arms:
+  icon: "talent-combinedarms.png"
+
+Companion:
+  icon: "talent-companion.png"
+
+Perfect Companion:
+  icon: "talent-companion.png"
+
+Composure:
+  icon: "talent-composure.png"
+
+Perfect Composure:
+  icon: "talent-composure.png"
+
+Concussion:
+  icon: "talent-concussion.png"
+
+Perfect Concussion:
+  icon: "talent-concussion.png"
+
+Creeping Death:
+  icon: "talent-creepingdeath.png"
+
+Perfect Creeping Death:
+  icon: "talent-creepingdeath.png"
+
+Efficient:
+  icon: "talent-efficient.png"
+
+Perfectly Efficient:
+  icon: "talent-efficient.png"
+
+Empathic Resolve:
+  icon: "talent-empathicresolve.png"
+
+Perfect Empathic Resolve:
+  icon: "talent-empathicresolve.png"
+
+Energize:
+  icon: "talent-energize.png"
+
+Perfect Energize:
+  icon: "talent-energize.png"
+
+Entrench:
+  icon: "talent-entrench.png"
+
+Perfect Entrench:
+  icon: "talent-entrench.png"
+
+Explosive Delivery:
+  icon: "talent-explosivedelivery.png"
+
+Perfect Explosive Delivery:
+  icon: "talent-explosivedelivery.png"
+
+Focus:
+  icon: "talent-focus.png"
+
+Perfect Focus:
+  icon: "talent-focus.png"
+
+Galvanize:
+  icon: "talent-galvanize.png"
+
+Perfect Galvanize:
+  icon: "talent-galvanize.png"
+
+Glass Cannon:
+  icon: "talent-glasscannon.png"
+
+Perfect Glass Cannon:
+  icon: "talent-glasscannon.png"
+
+Gunslinger:
+  icon: "talent-gunslinger.png"
 
 Perfect Gunslinger:
   icon: "talent-gunslinger.png"
 
-Vindictive:
-  icon: "talent-vindictive.png"
+Headhunter:
+  icon: "talent-headhunter.png"
+
+Perfect Headhunter:
+  icon: "talent-headhunter.png"
+
+Intimidate:
+  icon: "talent-intimidate.png"
+
+Perfect Intimidate:
+  icon: "talent-intimidate.png"
+
+Leadership:
+  icon: "talent-leadership.png"
+
+Perfect Leadership:
+  icon: "talent-leadership.png"
+
+Kinetic Momentum:
+  icon: "talent-kineticmomentum.png"
+
+Perfect Kinetic Momentum:
+  icon: "talent-kineticmomentum.png"
+
+Mad Bomber:
+  icon: "talent-madbomber.png"
+
+Perfectly Mad Bomber:
+  icon: "talent-madbomber.png"
+
+Obliterate:
+  icon: "talent-obliterate.png"
+
+Perfect Obliterate:
+  icon: "talent-obliterate.png"
+
+Opportunistic:
+  icon: "talent-opportunistic.png"
+
+Perfectly Opportunistic:
+  icon: "talent-opportunistic.png"
+
+Overclock:
+  icon: "talent-overclock.png"
+
+Perfect Overclock:
+  icon: "talent-overclock.png"
+
+Overwatch:
+  icon: "talent-overwatch.png"
+
+Perfect Overwatch:
+  icon: "talent-overwatch.png"
+
+Protected Reload:
+  icon: "talent-protectedreload.png"
+
+Perfect Protected Reload:
+  icon: "talent-protectedreload.png"
+
+Protector:
+  icon: "talent-protector.png"
+
+Reassigned:
+  icon: "talent-reassigned.png"
+
+Safeguard:
+  icon: "talent-safeguard.png"
+
+Perfect Safeguard:
+  icon: "talent-safeguard.png"
+
+Shock and Awe:
+  icon: "talent-shockandawe.png"
+
+Perfect Shock and Awe:
+  icon: "talent-shockandawe.png"
+
+Skilled:
+  icon: "talent-skilled.png"
+
+Perfectly Skilled:
+  icon: "talent-skilled.png"
+
+Spark:
+  icon: "talent-spark.png"
+
+Perfect Spark:
+  icon: "talent-spark.png"
+
+Spotter:
+  icon: "talent-spotter.png"
+
+Perfect Spotter:
+  icon: "talent-spotter.png"
+
+Tag Team:
+  icon: "talent-tagteam.png"
+
+Tamper Proof:
+  icon: "talent-tamperproof.png"
+
+Perfectly Tamper Proof:
+  icon: "talent-tamperproof.png"
+
+Tech Support:
+  icon: "talent-techsupport.png"
+
+Perfect Tech Support:
+  icon: "talent-techsupport.png"
+
+Trauma:
+  icon: "talent-trauma.png"
+
+Perfect Trauma:
+  icon: "talent-trauma.png"
+
+Unbreakable:
+  icon: "talent-unbreakable.png"
+
+Perfect Unbreakable:
+  icon: "talent-unbreakable.png"
+
+Unstoppable Force:
+  icon: "talent-unstoppableforce.png"
+
+Perfectly Unstoppable Force:
+  icon: "talent-unstoppableforce.png"
+
+Vanguard:
+  icon: "talent-vanguard.png"
+
+Perfect Vanguard:
+  icon: "talent-vanguard.png"
+
+Versatile:
+  icon: "talent-versatile.png"
+
+Perfect Versatile:
+  icon: "talent-versatile.png"
+
+Vigilance:
+  icon: "talent-vigilance.png"
+
+Perfect Vigilance:
+  icon: "talent-vigilance.png"
+
+Wicked:
+  icon: "talent-wicked.png"
+
+Perfectly Wicked:
+  icon: "talent-wicked.png"
 
 # ----------------------------------------------------------------- EOF
